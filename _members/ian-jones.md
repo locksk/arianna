@@ -1,7 +1,7 @@
 ---
 name: Ian Jones
 image: images/ian-jones.jpg
-role: principal-investigator
+role: pi
 affiliation: Cardiff University
 links:
   email: JonesIR1@cardiff.ac.uk
