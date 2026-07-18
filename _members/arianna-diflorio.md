@@ -1,7 +1,8 @@
 ---
 name: Arianna Di Florio
 image: images/arianna-diflorio.jpg
-role: pi
+role: principal-investigator
+description: Professor at the Division of Psychological Medicine and Clinical Neurosciences 
 affiliation: Cardiff University
 links:
   email: DiFlorioA@cardiff.ac.uk

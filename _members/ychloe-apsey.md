@@ -2,6 +2,7 @@
 name: Chloe Apsey
 image: images/photo.jpg
 role: phd
+description: Research Student at the Division of Psychological Medicine and Clinical Neurosciences 
 links:
   email: ApseyCJ@cardiff.ac.uk
 ---
