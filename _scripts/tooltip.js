@@ -3,7 +3,7 @@
   attribute.
 */
 
-{
+/* {
   const onLoad = () => {
     // make sure Tippy library available
     if (typeof tippy === "undefined") return;
@@ -39,3 +39,4 @@
   // after tags load
   window.addEventListener("tagsfetched", onLoad);
 }
+ */
