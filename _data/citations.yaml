@@ -1,209 +1,1484 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1016/j.jad.2025.120503
+  title: 'Letter to the editor: Having two children might not be best for women''s
+    mental health'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Lisa M. Shitomi-Jones
+  - Isobel A. Young
+  - Chloe Apsey
+  - Jessica Mei Kay Yang
+  publisher: Journal of Affective Disorders
+  date: '2026-02-01'
+  link: https://doi.org/hcb27p
+  orcid: 0000-0002-3685-4126
+  jess-yang: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1101/2025.06.23.25330155
+  title: Genomic dimensions deconstruct the clinical heterogeneity of bipolar disorder
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Tracey van der Veen
+  - Markos Tesfaye
+  - Jessica Mei Kay Yang
+  - Toni Boltz
+  - Friederike S. David
+  - Shane Crinion
+  - Maria Koromina
+  - Till F. M. Andlauer
+  - Tim B. Bigdeli
+  - Brandon J. Coombes
+  - Tiffany A. Greenwood
+  - Georgia Panagiotaropoulou
+  - Nadine Parker
+  - Heejong Sung
+  - Nicholas Bass
+  - Jonathan R. I. Coleman
+  - "Jos\xE9 Guzman-Parra"
+  - Janos L. Kalman
+  - Caroline C. McGrouther
+  - Brittany L. Mitchell
+  - Aaditya V. Rangan
+  - Katie Scott
+  - Alexey Shadrin
+  - Daniel J. Smith
+  - Annabel Vreeker
+  - Kristina Adorjan
+  - Diego Albani
+  - Silvia Alemany
+  - Ney Alliey-Rodriguez
+  - Anastasia Antoniou
+  - Michael Bauer
+  - Eva C. Beins
+  - Marco P. Boks
+  - Rosa Bosch
+  - Ben M. Brumpton
+  - Nathalie Brunkhorst-Kanaan
+  - Monika Budde
+  - William Byerley
+  - "Judit Cabana-Dom\xEDnguez"
+  - Murray J. Cairns
+  - Bernardo Carpiniello
+  - Miquel Casas
+  - Pablo Cervantes
+  - Chris Chatzinakos
+  - Toni-Kim Clarke
+  - Isabelle Claus
+  - Cristiana Cruceanu
+  - Alfredo Cuellar-Barboza
+  - Piotr M. Czerski
+  - Konstantinos Dafnas
+  - Anders M. Dale
+  - Nina Dalkner
+  - J. Raymond DePaulo
+  - Franziska Degenhardt
+  - Srdjan Djurovic
+  - Valentina Escott-Price
+  - Ayman H. Fanous
+  - Frederike T. Fellendorf
+  - I. Nicol Ferrier
+  - Liz Forty
+  - Josef Frank
+  - Oleksandr Frei
+  - Nelson B. Freimer
+  - Julie Garnham
+  - Ian R. Gizer
+  - Scott D. Gordon
+  - Katherine Gordon-Smith
+  - Tim Hahn
+  - Marian L. Hamshere
+  - Arvid Harder
+  - Martin Hautzinger
+  - Urs Heilbronner
+  - Dennis Hellgren
+  - Stefan Herms
+  - Ian B. Hickie
+  - Per Hoffmann
+  - Peter A. Holmans
+  - "St\xE9phane Jamain"
+  - Lina Jonsson
+  - James L. Kennedy
+  - Sarah Kittel-Schneider
+  - James A. Knowles
+  - Elise Koch
+  - Manolis Kogevinas
+  - Thorsten M. Kranz
+  - Steven A. Kushner
+  - Catharina Lavebratt
+  - Jacob Lawrence
+  - Markus Leber
+  - Penelope A. Lind
+  - Susanne Lucae
+  - Martin Lundberg
+  - Donald J. MacIntyre
+  - Wolfgang Maier
+  - Adam X. Maihofer
+  - Dolores Malaspina
+  - Mirko Manchia
+  - Eirini Maratou
+  - Lina Martinsson
+  - Melvin G. McInnis
+  - James D. McKay
+  - Helena Medeiros
+  - Andreas Meyer-Lindenberg
+  - Vincent Millischer
+  - Derek W. Morris
+  - Paraskevi Moutsatsou
+  - "Thomas W. M\xFChleisen"
+  - "Claire O\u2019Donovan"
+  - Catherine M. Olsen
+  - Sergi Papiol
+  - "Antonio F. Pardi\xF1as"
+  - Amy Perry
+  - Andrea Pfennig
+  - Claudia Pisanu
+  - James B. Potash
+  - Digby Quested
+  - Mark H. Rapaport
+  - Eline J. Regeer
+  - John P. Rice
+  - Margarita Rivera
+  - Eva C. Schulte
+  - Fanny Senner
+  - Paul D. Shilling
+  - Lisa Sindermann
+  - Lea Sirignano
+  - Dan Siskind
+  - Claire Slaney
+  - Olav B. Smeland
+  - Janet L. Sobell
+  - Maria Soler Artigas
+  - Dan J. Stein
+  - Frederike Stein
+  - Beata Swiatkowska
+  - Jackson G. Thorp
+  - Claudio Toma
+  - Leonardo Tondo
+  - Paul A. Tooney
+  - Marquis P. Vawter
+  - Helmut Vedder
+  - James T. R. Walters
+  - Stephanie H. Witt
+  - Allan H. Young
+  - Peter P. Zandi
+  - Lea Zillich
+  - Rolf Adolfsson
+  - Lars Alfredsson
+  - Lena Backlund
+  - Bernhard T. Baune
+  - Frank Bellivier
+  - Susanne Bengesser
+  - Wade H. Berrettini
+  - Joanna M. Biernacka
+  - Douglas Blackwood
+  - Michael Boehnke
+  - Gerome Breen
+  - Vaughan J. Carr
+  - Stanley Catts
+  - Sven Cichon
+  - Aiden Corvin
+  - Nicholas Craddock
+  - Udo Dannlowski
+  - Dimitris Dikeos
+  - "T\xF5nu Esko"
+  - Bruno Etain
+  - Panagiotis Ferentinos
+  - Mark Frye
+  - Janice M. Fullerton
+  - Micha Gawlik
+  - Elliot S. Gershon
+  - Fernando S. Goes
+  - Melissa J. Green
+  - Joanna Hauser
+  - Frans A. Henskens
+  - Jens Hjerling-Leffler
+  - Ian Jones
+  - Lisa A. Jones
+  - "Ren\xE9 S. Kahn"
+  - John R. Kelsoe
+  - Tilo Kircher
+  - George Kirov
+  - Nene Kobayashi
+  - "Mikael Land\xE9n"
+  - Marion Leboyer
+  - Melanie Lenger
+  - Qingqin S. Li
+  - Jolanta Lissowska
+  - Carmel Loughland
+  - Jurjen J.Luykx
+  - Nicholas G. Martin
+  - Carol A. Mathews
+  - Fermin Mayoral
+  - Susan L. McElroy
+  - Andrew M. McIntosh
+  - Sarah E. Medland
+  - Ingrid Melle
+  - Philip B. Mitchell
+  - Gunnar Morken
+  - Richard M. Myers
+  - "Chiara M\xF6ser"
+  - "Bertram M\xFCller-Myhsok"
+  - Benjamin M. Neale
+  - Caroline M. Nievergelt
+  - John I. Nurnberger
+  - "Markus M. N\xF6then"
+  - "Michael C. O\u2019Donovan"
+  - Ketil J. Oedegaard
+  - Tomas Olsson
+  - Michael J. Owen
+  - Sara A. Paciga
+  - Christos Pantelis
+  - Carlos N. Pato
+  - Michele T. Pato
+  - George P. Patrinos
+  - Joanna M. Pawlak
+  - Roy Perlis
+  - Josep Antoni Ramos-Quiroga
+  - Andreas Reif
+  - Eva Z. Reininghaus
+  - "Marta Ribas\xE9s"
+  - Marcella Rietschel
+  - Stephan Ripke
+  - Guy A. Rouleau
+  - Ulrich Schall
+  - Martin Schalling
+  - Peter R. Schofield
+  - Thomas G. Schulze
+  - Laura J. Scott
+  - Rodney J. Scott
+  - Alessandro Serretti
+  - Jordan W. Smoller
+  - Alessio Squassina
+  - Eli A. Stahl
+  - Eystein Stordal
+  - Fabian Streit
+  - Patrick F. Sullivan
+  - Gustavo Turecki
+  - Arne E. Vaaler
+  - Eduard Vieta
+  - John B. Vincent
+  - Irwin D. Waldman
+  - Cynthia S. Weickert
+  - Thomas W. Weickert
+  - David C. Whiteman
+  - Martin Alda
+  - Roel A. Ophoff
+  - "Kevin S. O\u2019Connell"
+  - Niamh Mullins
+  - Andreas J. Forstner
+  - Maria Grigoroiu-Serbanescu
+  - Howard J. Edenberg
+  - Francis J. McMahon
+  - Ole A. Andreassen
+  - Arianna Di Florio
+  - Andrew McQuillin
   publisher: openRxiv
   date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  link: https://doi.org/g9s323
+  orcid: 0000-0002-3685-4126
+  jess-yang: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1038/s41586-024-08468-9
+  title: Genomics yields biological and phenotypic insights into bipolar disorder
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - "Kevin S. O\u2019Connell"
+  - Maria Koromina
+  - Tracey van der Veen
+  - Toni Boltz
+  - Friederike S. David
+  - Jessica Mei Kay Yang
+  - Keng-Han Lin
+  - Xin Wang
+  - Jonathan R. I. Coleman
+  - Brittany L. Mitchell
+  - Caroline C. McGrouther
+  - Aaditya V. Rangan
+  - Penelope A. Lind
+  - Elise Koch
+  - Arvid Harder
+  - Nadine Parker
+  - Jaroslav Bendl
+  - Kristina Adorjan
+  - Esben Agerbo
+  - Diego Albani
+  - Silvia Alemany
+  - Ney Alliey-Rodriguez
+  - Thomas D. Als
+  - Till F. M. Andlauer
+  - Anastasia Antoniou
+  - Helga Ask
+  - Nicholas Bass
+  - Michael Bauer
+  - Eva C. Beins
+  - Tim B. Bigdeli
+  - "Carsten B\xF8cker Pedersen"
+  - Marco P. Boks
+  - "Sigrid B\xF8rte"
+  - Rosa Bosch
+  - Murielle Brum
+  - Ben M. Brumpton
+  - Nathalie Brunkhorst-Kanaan
+  - Monika Budde
+  - Jonas Bybjerg-Grauholm
+  - William Byerley
+  - "Judit Cabana-Dom\xEDnguez"
+  - Murray J. Cairns
+  - Bernardo Carpiniello
+  - Miquel Casas
+  - Pablo Cervantes
+  - Chris Chatzinakos
+  - Hsi-Chung Chen
+  - Tereza Clarence
+  - Toni-Kim Clarke
+  - Isabelle Claus
+  - Brandon Coombes
+  - Elizabeth C. Corfield
+  - Cristiana Cruceanu
+  - Alfredo Cuellar-Barboza
+  - Piotr M. Czerski
+  - Konstantinos Dafnas
+  - Anders M. Dale
+  - Nina Dalkner
+  - Franziska Degenhardt
+  - J. Raymond DePaulo
+  - Srdjan Djurovic
+  - Ole Kristian Drange
+  - Valentina Escott-Price
+  - Ayman H. Fanous
+  - Frederike T. Fellendorf
+  - I. Nicol Ferrier
+  - Liz Forty
+  - Josef Frank
+  - Oleksandr Frei
+  - Nelson B. Freimer
+  - John F. Fullard
+  - Julie Garnham
+  - Ian R. Gizer
+  - Scott D. Gordon
+  - Katherine Gordon-Smith
+  - Tiffany A. Greenwood
+  - Jakob Grove
+  - "Jos\xE9 Guzman-Parra"
+  - Tae Hyon Ha
+  - Tim Hahn
+  - Magnus Haraldsson
+  - Martin Hautzinger
+  - Alexandra Havdahl
+  - Urs Heilbronner
+  - Dennis Hellgren
+  - Stefan Herms
+  - Ian B. Hickie
+  - Per Hoffmann
+  - Peter A. Holmans
+  - Ming-Chyi Huang
+  - Masashi Ikeda
+  - "St\xE9phane Jamain"
+  - Jessica S. Johnson
+  - Lina Jonsson
+  - Janos L. Kalman
+  - Yoichiro Kamatani
+  - James L. Kennedy
+  - Euitae Kim
+  - Jaeyoung Kim
+  - Sarah Kittel-Schneider
+  - James A. Knowles
+  - Manolis Kogevinas
+  - Thorsten M. Kranz
+  - Kristi Krebs
+  - Steven A. Kushner
+  - Catharina Lavebratt
+  - Jacob Lawrence
+  - Markus Leber
+  - Heon-Jeong Lee
+  - Calwing Liao
+  - Susanne Lucae
+  - Martin Lundberg
+  - Donald J. MacIntyre
+  - Wolfgang Maier
+  - Adam X. Maihofer
+  - Dolores Malaspina
+  - Mirko Manchia
+  - Eirini Maratou
+  - Lina Martinsson
+  - Manuel Mattheisen
+  - Nathaniel W. McGregor
+  - Melvin G. McInnis
+  - James D. McKay
+  - Helena Medeiros
+  - Andreas Meyer-Lindenberg
+  - Vincent Millischer
+  - Derek W. Morris
+  - Paraskevi Moutsatsou
+  - "Thomas W. M\xFChleisen"
+  - "Claire O\u2019Donovan"
+  - Catherine M. Olsen
+  - Georgia Panagiotaropoulou
+  - Sergi Papiol
+  - "Antonio F. Pardi\xF1as"
+  - Hye Youn Park
+  - Amy Perry
+  - Andrea Pfennig
+  - Claudia Pisanu
+  - James B. Potash
+  - Digby Quested
+  - Mark H. Rapaport
+  - Eline J. Regeer
+  - John P. Rice
+  - Margarita Rivera
+  - Eva C. Schulte
+  - Fanny Senner
+  - Alexey Shadrin
+  - Paul D. Shilling
+  - Engilbert Sigurdsson
+  - Lisa Sindermann
+  - Lea Sirignano
+  - Dan Siskind
+  - Claire Slaney
+  - Laura G. Sloofman
+  - Olav B. Smeland
+  - Daniel J. Smith
+  - Janet L. Sobell
+  - Maria Soler Artigas
+  - Dan J. Stein
+  - Frederike Stein
+  - Mei-Hsin Su
+  - Heejong Sung
+  - "Beata \u015Awi\u0105tkowska"
+  - Chikashi Terao
+  - Markos Tesfaye
+  - Martin Tesli
+  - Thorgeir E. Thorgeirsson
+  - Jackson G. Thorp
+  - Claudio Toma
+  - Leonardo Tondo
+  - Paul A. Tooney
+  - Shih-Jen Tsai
+  - Evangelia Eirini Tsermpini
+  - Marquis P. Vawter
+  - Helmut Vedder
+  - Annabel Vreeker
+  - James T. R. Walters
+  - Bendik S. Winsvold
+  - Stephanie H. Witt
+  - Hong-Hee Won
+  - Robert Ye
+  - Allan H. Young
+  - Peter P. Zandi
+  - Lea Zillich
+  - Byung-Chul Lee
+  - Ji-Woong Kim
+  - Young Kee Lee
+  - Joon Ho Kang
+  - Myeong Jae Cheon
+  - Dong Jun Kim
+  - Mihaela Aslan
+  - Philip D. Harvey
+  - Grant D. Huang
+  - Rolf Adolfsson
+  - Martin Alda
+  - Lars Alfredsson
+  - Lena Backlund
+  - Bernhard T. Baune
+  - Frank Bellivier
+  - Susanne Bengesser
+  - Wade H. Berrettini
+  - Joanna M. Biernacka
+  - Michael Boehnke
+  - "Anders D. B\xF8rglum"
+  - Gerome Breen
+  - Vaughan J. Carr
+  - Stanley Catts
+  - Sven Cichon
+  - Aiden Corvin
+  - Nicholas Craddock
+  - Udo Dannlowski
+  - Dimitris Dikeos
+  - Bruno Etain
+  - Panagiotis Ferentinos
+  - Mark Frye
+  - Janice M. Fullerton
+  - Micha Gawlik
+  - Elliot S. Gershon
+  - Fernando S. Goes
+  - Melissa J. Green
+  - Maria Grigoroiu-Serbanescu
+  - Joanna Hauser
+  - Frans A. Henskens
+  - Jens Hjerling-Leffler
+  - David M. Hougaard
+  - Kristian Hveem
+  - Nakao Iwata
+  - Ian Jones
+  - Lisa A. Jones
+  - "Ren\xE9 S. Kahn"
+  - John R. Kelsoe
+  - Tilo Kircher
+  - George Kirov
+  - Po-Hsiu Kuo
+  - "Mikael Land\xE9n"
+  - Marion Leboyer
+  - Qingqin S. Li
+  - Jolanta Lissowska
+  - Christine Lochner
+  - Carmel Loughland
+  - Jurjen J. Luykx
+  - Nicholas G. Martin
+  - Carol A. Mathews
+  - Fermin Mayoral
+  - Susan L. McElroy
+  - Andrew M. McIntosh
+  - Francis J. McMahon
+  - Sarah E. Medland
+  - Ingrid Melle
+  - Lili Milani
+  - Philip B. Mitchell
+  - Gunnar Morken
+  - Ole Mors
+  - Preben Bo Mortensen
+  - "Bertram M\xFCller-Myhsok"
+  - Richard M. Myers
+  - Woojae Myung
+  - Benjamin M. Neale
+  - Caroline M. Nievergelt
+  - Merete Nordentoft
+  - "Markus M. N\xF6then"
+  - John I. Nurnberger
+  - "Michael C. O\u2019Donovan"
+  - Ketil J. Oedegaard
+  - Tomas Olsson
+  - Michael J. Owen
+  - Sara A. Paciga
+  - Christos Pantelis
+  - Carlos N. Pato
+  - Michele T. Pato
+  - George P. Patrinos
+  - Joanna M. Pawlak
+  - Josep Antoni Ramos-Quiroga
+  - Andreas Reif
+  - Eva Z. Reininghaus
+  - "Marta Ribas\xE9s"
+  - Marcella Rietschel
+  - Stephan Ripke
+  - Guy A. Rouleau
+  - Panos Roussos
+  - Takeo Saito
+  - Ulrich Schall
+  - Martin Schalling
+  - Peter R. Schofield
+  - Thomas G. Schulze
+  - Laura J. Scott
+  - Rodney J. Scott
+  - Alessandro Serretti
+  - Jordan W. Smoller
+  - Alessio Squassina
+  - Eli A. Stahl
+  - Hreinn Stefansson
+  - Kari Stefansson
+  - Eystein Stordal
+  - Fabian Streit
+  - Patrick F. Sullivan
+  - Gustavo Turecki
+  - Arne E. Vaaler
+  - Eduard Vieta
+  - John B. Vincent
+  - Irwin D. Waldman
+  - Cynthia S. Weickert
+  - Thomas W. Weickert
+  - Thomas Werge
+  - David C. Whiteman
+  - John-Anker Zwart
+  - Howard J. Edenberg
+  - Andrew McQuillin
+  - Andreas J. Forstner
+  - Niamh Mullins
+  - Arianna Di Florio
+  - Roel A. Ophoff
+  - Ole A. Andreassen
+  - Tracey van der Veen
+  - Dan Siskind
+  publisher: Nature
+  date: '2025-01-22'
+  link: https://doi.org/g82sgt
+  orcid: 0000-0002-3685-4126
+  jess-yang: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1007/s00737-023-01347-8
+  title: 'Postpartum psychosis: a public involvement perspective across three continents'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Jessica Mei Kay Yang
+  - Kimneihat Vaiphei
+  - Mercy Siliya
+  - Thandiwe Mkandawire
+  - Clare Dolman
+  - Jessica Heron
+  - Sally Wilson
+  - Shivanand Yaresheemi
+  - Danielle Kitney
+  - Leah Bailey
+  - Chloe Apsey
+  - Olive Liwimbi
+  - Robert Stewart
+  - Harish Thippeswamy
+  - Ian Jones
+  - Genesis Chorwe-Sungani
+  - Prabha Chandra
+  - Arianna Di Florio
+  publisher: Archives of Women's Mental Health
+  date: '2023-08-24'
+  link: https://doi.org/g722j7
+  orcid: 0000-0002-3685-4126
+  jess-yang: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1176/appi.ajp.20230053
+  title: Meta-Analyses of Genome-Wide Association Studies for Postpartum Depression
+  authors:
+  - Jerry Guintivano
+  - Enda M. Byrne
+  - Jacqueline Kiewa
+  - Shuyang Yao
+  - Anna E. Bauer
+  - Karolina A. Aberg
+  - Mark J. Adams
+  - Archie Campbell
+  - Megan L. Campbell
+  - Karmel W. Choi
+  - Elizabeth C. Corfield
+  - Alexandra Havdahl
+  - Donald Hucks
+  - Nastassja Koen
+  - Yi Lu
+  - "Merete L. M\xE6gb\xE6k"
+  - Jimmy Mullaert
+  - Roseann E. Peterson
+  - Laura M. Raffield
+  - Hannah M. Sallis
+  - Julia M. Sealock
+  - Alicia Walker
+  - Hunna J. Watson
+  - Ying Xiong
+  - Jessica M.K. Yang
+  - Richard J.L. Anney
+  - Katherine Gordon-Smith
+  - Leon Hubbard
+  - Lisa A. Jones
+  - Raluca Mihaescu
+  - Mette Nyegaard
+  - "Antonio F. Pardi\xF1as"
+  - Amy Perry
+  - Nazmus Saquib
+  - Aladdin H. Shadyab
+  - Alexander Viktorin
+  - Ole A. Andreassen
+  - Tim B. Bigdeli
+  - Lea K. Davis
+  - Cindy-Lee Dennis
+  - Arianna Di Florio
+  - Caroline Dubertret
+  - Yen-Chen A. Feng
+  - Benicio N. Frey
+  - Sophie Grigoriadis
+  - Emilie Gloaguen
+  - Ian Jones
+  - James L. Kennedy
+  - Holly Krohn
+  - Theodora Kunovac Kallak
+  - Yun Li
+  - Nicholas G. Martin
+  - Andrew M. McIntosh
+  - Jeannette Milgrom
+  - Trine Munk-Olsen
+  - Tim Oberlander
+  - Catherine M. Olsen
+  - Nicolas Ramoz
+  - Ted Reichborn-Kjennerud
+  - Emma Robertson Blackmore
+  - David Rubinow
+  - Alkistis Skalkidou
+  - Jordan W. Smoller
+  - Dan J. Stein
+  - Zachary N. Stowe
+  - Valerie Taylor
+  - Sarah Tebeka
+  - Martin Tesli
+  - Ryan J. Van Lieshout
+  - Edwin J.C.G. van den Oord
+  - Simone N. Vigod
+  - Thomas Werge
+  - Lars T. Westlye
+  - David C. Whiteman
+  - Heather J. Zar
+  - Naomi Wray
+  - Samantha Meltzer-Brody
+  - Patrick Sullivan
+  publisher: American Journal of Psychiatry
+  date: '2023-12-01'
+  link: https://doi.org/gswkpk
+  orcid: 0000-0002-3685-4126
+  jess-yang: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.10.07.23296687
+  title: Genomics yields biological and phenotypic insights into bipolar disorder
+  authors:
+  - "Kevin S. O\u2019Connell"
+  - Maria Koromina
+  - Tracey van der Veen
+  - Toni Boltz
+  - Friederike S. David
+  - Jessica Mei Kay Yang
+  - Keng-Han Lin
+  - Xin Wang
+  - Jonathan R. I. Coleman
+  - Brittany L. Mitchell
+  - Caroline C. McGrouther
+  - Aaditya V. Rangan
+  - Penelope A. Lind
+  - Elise Koch
+  - Arvid Harder
+  - Nadine Parker
+  - Jaroslav Bendl
+  - Kristina Adorjan
+  - Esben Agerbo
+  - Diego Albani
+  - Silvia Alemany
+  - Ney Alliey-Rodriguez
+  - Thomas D. Als
+  - Till F. M. Andlauer
+  - Anastasia Antoniou
+  - Helga Ask
+  - Nicholas Bass
+  - Michael Bauer
+  - Eva C. Beins
+  - Tim B. Bigdeli
+  - "Carsten B\xF8cker Pedersen"
+  - Marco P. Boks
+  - "Sigrid B\xF8rte"
+  - Rosa Bosch
+  - Murielle Brum
+  - Ben M. Brumpton
+  - Nathalie Brunkhorst-Kanaan
+  - Monika Budde
+  - Jonas Bybjerg-Grauholm
+  - William Byerley
+  - "Judit Cabana-Dom\xEDnguez"
+  - Murray J. Cairns
+  - Bernardo Carpiniello
+  - Miquel Casas
+  - Pablo Cervantes
+  - Chris Chatzinakos
+  - Hsi-Chung Chen
+  - Tereza Clarence
+  - Toni-Kim Clarke
+  - Isabelle Claus
+  - Brandon Coombes
+  - Elizabeth C. Corfield
+  - Cristiana Cruceanu
+  - Alfredo Cuellar-Barboza
+  - Piotr M. Czerski
+  - Konstantinos Dafnas
+  - Anders M. Dale
+  - Nina Dalkner
+  - Franziska Degenhardt
+  - J. Raymond DePaulo
+  - Srdjan Djurovic
+  - Ole Kristian Drange
+  - Valentina Escott-Price
+  - Ayman H. Fanous
+  - Frederike T. Fellendorf
+  - I. Nicol Ferrier
+  - Liz Forty
+  - Josef Frank
+  - Oleksandr Frei
+  - Nelson B. Freimer
+  - John F. Fullard
+  - Julie Garnham
+  - Ian R. Gizer
+  - Scott D. Gordon
+  - Katherine Gordon-Smith
+  - Tiffany A. Greenwood
+  - Jakob Grove
+  - "Jos\xE9 Guzman-Parra"
+  - Tae Hyon Ha
+  - Tim Hahn
+  - Magnus Haraldsson
+  - Martin Hautzinger
+  - Alexandra Havdahl
+  - Urs Heilbronner
+  - Dennis Hellgren
+  - Stefan Herms
+  - Ian B. Hickie
+  - Per Hoffmann
+  - Peter A. Holmans
+  - Ming-Chyi Huang
+  - Masashi Ikeda
+  - "St\xE9phane Jamain"
+  - Jessica S. Johnson
+  - Lina Jonsson
+  - Janos L. Kalman
+  - Yoichiro Kamatani
+  - James L. Kennedy
+  - Euitae Kim
+  - Jaeyoung Kim
+  - Sarah Kittel-Schneider
+  - James A. Knowles
+  - Manolis Kogevinas
+  - Thorsten M. Kranz
+  - Kristi Krebs
+  - Steven A. Kushner
+  - Catharina Lavebratt
+  - Jacob Lawrence
+  - Markus Leber
+  - Heon-Jeong Lee
+  - Calwing Liao
+  - Susanne Lucae
+  - Martin Lundberg
+  - Donald J. MacIntyre
+  - Wolfgang Maier
+  - Adam X. Maihofer
+  - Dolores Malaspina
+  - Mirko Manchia
+  - Eirini Maratou
+  - Lina Martinsson
+  - Manuel Mattheisen
+  - Nathaniel W. McGregor
+  - Melvin G. McInnis
+  - James D. McKay
+  - Helena Medeiros
+  - Andreas Meyer-Lindenberg
+  - Vincent Millischer
+  - Derek W. Morris
+  - Paraskevi Moutsatsou
+  - "Thomas W. M\xFChleisen"
+  - "Claire O\u2019Donovan"
+  - Catherine M. Olsen
+  - Georgia Panagiotaropoulou
+  - Sergi Papiol
+  - "Antonio F. Pardi\xF1as"
+  - Hye Youn Park
+  - Amy Perry
+  - Andrea Pfennig
+  - Claudia Pisanu
+  - James B. Potash
+  - Digby Quested
+  - Mark H. Rapaport
+  - Eline J. Regeer
+  - John P. Rice
+  - Margarita Rivera
+  - Eva C. Schulte
+  - Fanny Senner
+  - Alexey Shadrin
+  - Paul D. Shilling
+  - Engilbert Sigurdsson
+  - Lisa Sindermann
+  - Lea Sirignano
+  - Dan Siskind
+  - Claire Slaney
+  - Laura G. Sloofman
+  - Olav B. Smeland
+  - Daniel J. Smith
+  - Janet L. Sobell
+  - Maria Soler Artigas
+  - Dan J. Stein
+  - Frederike Stein
+  - Mei-Hsin Su
+  - Heejong Sung
+  - "Beata \u015Awi\u0105tkowska"
+  - Chikashi Terao
+  - Markos Tesfaye
+  - Martin Tesli
+  - Thorgeir E. Thorgeirsson
+  - Jackson G. Thorp
+  - Claudio Toma
+  - Leonardo Tondo
+  - Paul A. Tooney
+  - Shih-Jen Tsai
+  - Evangelia Eirini Tsermpini
+  - Marquis P. Vawter
+  - Helmut Vedder
+  - Annabel Vreeker
+  - James T. R. Walters
+  - Bendik S. Winsvold
+  - Stephanie H. Witt
+  - Hong-Hee Won
+  - Robert Ye
+  - Allan H. Young
+  - Peter P. Zandi
+  - Lea Zillich
+  - Rolf Adolfsson
+  - Martin Alda
+  - Lars Alfredsson
+  - Lena Backlund
+  - Bernhard T. Baune
+  - Frank Bellivier
+  - Susanne Bengesser
+  - Wade H. Berrettini
+  - Joanna M. Biernacka
+  - Michael Boehnke
+  - "Anders D. B\xF8rglum"
+  - Gerome Breen
+  - Vaughan J. Carr
+  - Stanley Catts
+  - Sven Cichon
+  - Aiden Corvin
+  - Nicholas Craddock
+  - Udo Dannlowski
+  - Dimitris Dikeos
+  - Bruno Etain
+  - Panagiotis Ferentinos
+  - Mark Frye
+  - Janice M. Fullerton
+  - Micha Gawlik
+  - Elliot S. Gershon
+  - Fernando S. Goes
+  - Melissa J. Green
+  - Maria Grigoroiu-Serbanescu
+  - Joanna Hauser
+  - Frans A. Henskens
+  - Jens Hjerling-Leffler
+  - David M. Hougaard
+  - Kristian Hveem
+  - Nakao Iwata
+  - Ian Jones
+  - Lisa A. Jones
+  - "Ren\xE9 S. Kahn"
+  - John R. Kelsoe
+  - Tilo Kircher
+  - George Kirov
+  - Po-Hsiu Kuo
+  - "Mikael Land\xE9n"
+  - Marion Leboyer
+  - Qingqin S. Li
+  - Jolanta Lissowska
+  - Christine Lochner
+  - Carmel Loughland
+  - Jurjen J. Luykx
+  - Nicholas G. Martin
+  - Carol A. Mathews
+  - Fermin Mayoral
+  - Susan L. McElroy
+  - Andrew M. McIntosh
+  - Francis J. McMahon
+  - Sarah E. Medland
+  - Ingrid Melle
+  - Lili Milani
+  - Philip B. Mitchell
+  - Gunnar Morken
+  - Ole Mors
+  - Preben Bo Mortensen
+  - "Bertram M\xFCller-Myhsok"
+  - Richard M. Myers
+  - Woojae Myung
+  - Benjamin M. Neale
+  - Caroline M. Nievergelt
+  - Merete Nordentoft
+  - "Markus M. N\xF6then"
+  - John I. Nurnberger
+  - "Michael C. O\u2019Donovan"
+  - Ketil J. Oedegaard
+  - Tomas Olsson
+  - Michael J. Owen
+  - Sara A. Paciga
+  - Christos Pantelis
+  - Carlos N. Pato
+  - Michele T. Pato
+  - George P. Patrinos
+  - Joanna M. Pawlak
+  - Josep Antoni Ramos-Quiroga
+  - Andreas Reif
+  - Eva Z. Reininghaus
+  - "Marta Ribas\xE9s"
+  - Marcella Rietschel
+  - Stephan Ripke
+  - Guy A. Rouleau
+  - Panos Roussos
+  - Takeo Saito
+  - Ulrich Schall
+  - Martin Schalling
+  - Peter R. Schofield
+  - Thomas G. Schulze
+  - Laura J. Scott
+  - Rodney J. Scott
+  - Alessandro Serretti
+  - Jordan W. Smoller
+  - Alessio Squassina
+  - Eli A. Stahl
+  - Hreinn Stefansson
+  - Kari Stefansson
+  - Eystein Stordal
+  - Fabian Streit
+  - Patrick F. Sullivan
+  - Gustavo Turecki
+  - Arne E. Vaaler
+  - Eduard Vieta
+  - John B. Vincent
+  - Irwin D. Waldman
+  - Cynthia S. Weickert
+  - Thomas W. Weickert
+  - Thomas Werge
+  - David C. Whiteman
+  - John-Anker Zwart
+  - Howard J. Edenberg
+  - Andrew McQuillin
+  - Andreas J. Forstner
+  - Niamh Mullins
+  - Arianna Di Florio
+  - Roel A. Ophoff
+  - Ole A. Andreassen
   publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2023-10-07'
+  link: https://doi.org/g9jxgs
+  orcid: 0000-0002-3685-4126
+  jess-yang: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1007/978-3-030-91832-3_9
+  title: Puerperal Psychosis
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Jessica Mei Kay Yang
+  - Ian Jones
+  - Arianna Di Florio
+  publisher: Key Topics in Perinatal Mental Health
+  date: '2022-01-01'
+  link: https://doi.org/hcb27q
+  orcid: 0000-0002-3685-4126
+  jess-yang: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1037/xge0000641
+  title: Inability to improve performance with control shows limited access to inner
+    states.
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Marlou Nadine Perquin
+  - Jessica Yang
+  - Christoph Teufel
+  - Petroc Sumner
+  - Craig Hedge
+  - Aline Bompas
+  publisher: 'Journal of Experimental Psychology: General'
+  date: '2020-02-01'
+  link: https://doi.org/hcb27r
+  orcid: 0000-0002-3685-4126
+  jess-yang: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1038/s41380-020-0718-4
+  title: Environmental enrichment rescues survival and function of adult-born neurons
+    following early life stress
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Lowenna Rule
+  - Jessica Yang
+  - Holly Watkin
+  - Jeremy Hall
+  - Nichola Marie Brydges
+  publisher: Molecular Psychiatry
+  date: '2020-04-14'
+  link: https://doi.org/gn9wc2
+  orcid: 0000-0002-3685-4126
+  jess-yang: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/j.ajp.2023.103592
+  title: "Formation of a stakeholder group of women with a lived experience of Post-partum\
+    \ Psychoses (PP) \u2013 Experience from a perinatal psychiatry service in India"
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Kimneihat Vaiphei
+  - Shivanand Yaresheemi
+  - Jessica M.K. Yang
+  - Arianna Di Florio
+  - Prabha S. Chandra
+  - Harish Thippeswamy
+  publisher: Asian Journal of Psychiatry
+  date: '2023-06-01'
+  link: https://doi.org/hcb27s
+  orcid: 0000-0002-3685-4126
+  jess-yang: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1007/s10519-025-10246-w
+  title: 'From Genomes to Conversations: Outreach and Engagement in Psychiatric Genetics'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Helena L. Davies
+  - Niamh M. Ryan
+  - Kylie K. Reed
+  - Natasha Berthold
+  - Jared G. Maina
+  - Ruth McNulty
+  - Abigail R. ter Kuile
+  - Ofure A. Ubah
+  - Eva Trujillo-ChiVacuan
+  - Eva C. Schulte
+  - Jessica Mei Kay Yang
+  - Melanie M. de Wit
+  - Estela Maria Bruxel
+  - Joseph D. Deak
+  - Maria Koromina
+  - Thomas Sollie
+  - Alice Braun
+  - Cynthia M. Bulik
+  - Cathryn M. Lewis
+  - Danielle M. Dick
+  - Jerry Guintivano
+  - Howard J. Edenberg
+  publisher: Behavior Genetics
+  date: '2026-02-05'
+  link: https://doi.org/hbpjhm
+  orcid: 0000-0002-3685-4126
+  jess-yang: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-021-00857-4
+  title: Genome-wide association study of more than 40,000 bipolar disorder cases
+    provides new insights into the underlying biology
+  authors:
+  - Niamh Mullins
+  - Andreas J. Forstner
+  - "Kevin S. O\u2019Connell"
+  - Brandon Coombes
+  - Jonathan R. I. Coleman
+  - Zhen Qiao
+  - Thomas D. Als
+  - Tim B. Bigdeli
+  - "Sigrid B\xF8rte"
+  - Julien Bryois
+  - Alexander W. Charney
+  - Ole Kristian Drange
+  - Michael J. Gandal
+  - Saskia P. Hagenaars
+  - Masashi Ikeda
+  - Nolan Kamitaki
+  - Minsoo Kim
+  - Kristi Krebs
+  - Georgia Panagiotaropoulou
+  - Brian M. Schilder
+  - Laura G. Sloofman
+  - Stacy Steinberg
+  - Vassily Trubetskoy
+  - Bendik S. Winsvold
+  - Hong-Hee Won
+  - Liliya Abramova
+  - Kristina Adorjan
+  - Esben Agerbo
+  - Mariam Al Eissa
+  - Diego Albani
+  - Ney Alliey-Rodriguez
+  - Adebayo Anjorin
+  - Verneri Antilla
+  - Anastasia Antoniou
+  - Swapnil Awasthi
+  - Ji Hyun Baek
+  - "Marie B\xE6kvad-Hansen"
+  - Nicholas Bass
+  - Michael Bauer
+  - Eva C. Beins
+  - Sarah E. Bergen
+  - Armin Birner
+  - "Carsten B\xF8cker Pedersen"
+  - "Erlend B\xF8en"
+  - Marco P. Boks
+  - Rosa Bosch
+  - Murielle Brum
+  - Ben M. Brumpton
+  - Nathalie Brunkhorst-Kanaan
+  - Monika Budde
+  - Jonas Bybjerg-Grauholm
+  - William Byerley
+  - Murray Cairns
+  - Miquel Casas
+  - Pablo Cervantes
+  - Toni-Kim Clarke
+  - Cristiana Cruceanu
+  - Alfredo Cuellar-Barboza
+  - Julie Cunningham
+  - David Curtis
+  - Piotr M. Czerski
+  - Anders M. Dale
+  - Nina Dalkner
+  - Friederike S. David
+  - Franziska Degenhardt
+  - Srdjan Djurovic
+  - Amanda L. Dobbyn
+  - Athanassios Douzenis
+  - "Torbj\xF8rn Elvs\xE5shagen"
+  - Valentina Escott-Price
+  - I. Nicol Ferrier
+  - Alessia Fiorentino
+  - Tatiana M. Foroud
+  - Liz Forty
+  - Josef Frank
+  - Oleksandr Frei
+  - Nelson B. Freimer
+  - "Louise Fris\xE9n"
+  - Katrin Gade
+  - Julie Garnham
+  - Joel Gelernter
+  - "Marianne Gi\xF8rtz Pedersen"
+  - Ian R. Gizer
+  - Scott D. Gordon
+  - Katherine Gordon-Smith
+  - Tiffany A. Greenwood
+  - Jakob Grove
+  - "Jos\xE9 Guzman-Parra"
+  - Kyooseob Ha
+  - Magnus Haraldsson
+  - Martin Hautzinger
+  - Urs Heilbronner
+  - Dennis Hellgren
+  - Stefan Herms
+  - Per Hoffmann
+  - Peter A. Holmans
+  - Laura Huckins
+  - "St\xE9phane Jamain"
+  - Jessica S. Johnson
+  - Janos L. Kalman
+  - Yoichiro Kamatani
+  - James L. Kennedy
+  - Sarah Kittel-Schneider
+  - James A. Knowles
+  - Manolis Kogevinas
+  - Maria Koromina
+  - Thorsten M. Kranz
+  - Henry R. Kranzler
+  - Michiaki Kubo
+  - Ralph Kupka
+  - Steven A. Kushner
+  - Catharina Lavebratt
+  - Jacob Lawrence
+  - Markus Leber
+  - Heon-Jeong Lee
+  - Phil H. Lee
+  - Shawn E. Levy
+  - Catrin Lewis
+  - Calwing Liao
+  - Susanne Lucae
+  - Martin Lundberg
+  - Donald J. MacIntyre
+  - Sigurdur H. Magnusson
+  - Wolfgang Maier
+  - Adam Maihofer
+  - Dolores Malaspina
+  - Eirini Maratou
+  - Lina Martinsson
+  - Manuel Mattheisen
+  - Steven A. McCarroll
+  - Nathaniel W. McGregor
+  - Peter McGuffin
+  - James D. McKay
+  - Helena Medeiros
+  - Sarah E. Medland
+  - Vincent Millischer
+  - Grant W. Montgomery
+  - Jennifer L. Moran
+  - Derek W. Morris
+  - "Thomas W. M\xFChleisen"
+  - "Niamh O\u2019Brien"
+  - "Claire O\u2019Donovan"
+  - Loes M. Olde Loohuis
+  - Lilijana Oruc
+  - Sergi Papiol
+  - "Antonio F. Pardi\xF1as"
+  - Amy Perry
+  - Andrea Pfennig
+  - Evgenia Porichi
+  - James B. Potash
+  - Digby Quested
+  - Towfique Raj
+  - Mark H. Rapaport
+  - J. Raymond DePaulo
+  - Eline J. Regeer
+  - John P. Rice
+  - Fabio Rivas
+  - Margarita Rivera
+  - Julian Roth
+  - Panos Roussos
+  - Douglas M. Ruderfer
+  - "Cristina S\xE1nchez-Mora"
+  - Eva C. Schulte
+  - Fanny Senner
+  - Sally Sharp
+  - Paul D. Shilling
+  - Engilbert Sigurdsson
+  - Lea Sirignano
+  - Claire Slaney
+  - Olav B. Smeland
+  - Daniel J. Smith
+  - Janet L. Sobell
+  - "Christine S\xF8holm Hansen"
+  - Maria Soler Artigas
+  - Anne T. Spijker
+  - Dan J. Stein
+  - John S. Strauss
+  - "Beata \u015Awi\u0105tkowska"
+  - Chikashi Terao
+  - Thorgeir E. Thorgeirsson
+  - Claudio Toma
+  - Paul Tooney
+  - Evangelia-Eirini Tsermpini
+  - Marquis P. Vawter
+  - Helmut Vedder
+  - James T. R. Walters
+  - Stephanie H. Witt
+  - Simon Xi
+  - Wei Xu
+  - Jessica Mei Kay Yang
+  - Allan H. Young
+  - Hannah Young
+  - Peter P. Zandi
+  - Hang Zhou
+  - Lea Zillich
+  - Rolf Adolfsson
+  - Ingrid Agartz
+  - Martin Alda
+  - Lars Alfredsson
+  - Gulja Babadjanova
+  - Lena Backlund
+  - Bernhard T. Baune
+  - Frank Bellivier
+  - Susanne Bengesser
+  - Wade H. Berrettini
+  - Douglas H. R. Blackwood
+  - Michael Boehnke
+  - "Anders D. B\xF8rglum"
+  - Gerome Breen
+  - Vaughan J. Carr
+  - Stanley Catts
+  - Aiden Corvin
+  - Nicholas Craddock
+  - Udo Dannlowski
+  - Dimitris Dikeos
+  - "T\xF5nu Esko"
+  - Bruno Etain
+  - Panagiotis Ferentinos
+  - Mark Frye
+  - Janice M. Fullerton
+  - Micha Gawlik
+  - Elliot S. Gershon
+  - Fernando S. Goes
+  - Melissa J. Green
+  - Maria Grigoroiu-Serbanescu
+  - Joanna Hauser
+  - Frans Henskens
+  - Jan Hillert
+  - Kyung Sue Hong
+  - David M. Hougaard
+  - Christina M. Hultman
+  - Kristian Hveem
+  - Nakao Iwata
+  - Assen V. Jablensky
+  - Ian Jones
+  - Lisa A. Jones
+  - "Ren\xE9 S. Kahn"
+  - John R. Kelsoe
+  - George Kirov
+  - "Mikael Land\xE9n"
+  - Marion Leboyer
+  - Cathryn M. Lewis
+  - Qingqin S. Li
+  - Jolanta Lissowska
+  - Christine Lochner
+  - Carmel Loughland
+  - Nicholas G. Martin
+  - Carol A. Mathews
+  - Fermin Mayoral
+  - Susan L. McElroy
+  - Andrew M. McIntosh
+  - Francis J. McMahon
+  - Ingrid Melle
+  - Patricia Michie
+  - Lili Milani
+  - Philip B. Mitchell
+  - Gunnar Morken
+  - Ole Mors
+  - Preben Bo Mortensen
+  - Bryan Mowry
+  - "Bertram M\xFCller-Myhsok"
+  - Richard M. Myers
+  - Benjamin M. Neale
+  - Caroline M. Nievergelt
+  - Merete Nordentoft
+  - "Markus M. N\xF6then"
+  - "Michael C. O\u2019Donovan"
+  - Ketil J. Oedegaard
+  - Tomas Olsson
+  - Michael J. Owen
+  - Sara A. Paciga
+  - Chris Pantelis
+  - Carlos Pato
+  - Michele T. Pato
+  - George P. Patrinos
+  - Roy H. Perlis
+  - Danielle Posthuma
+  - Josep Antoni Ramos-Quiroga
+  - Andreas Reif
+  - Eva Z. Reininghaus
+  - "Marta Ribas\xE9s"
+  - Marcella Rietschel
+  - Stephan Ripke
+  - Guy A. Rouleau
+  - Takeo Saito
+  - Ulrich Schall
+  - Martin Schalling
+  - Peter R. Schofield
+  - Thomas G. Schulze
+  - Laura J. Scott
+  - Rodney J. Scott
+  - Alessandro Serretti
+  - Cynthia Shannon Weickert
+  - Jordan W. Smoller
+  - Hreinn Stefansson
+  - Kari Stefansson
+  - Eystein Stordal
+  - Fabian Streit
+  - Patrick F. Sullivan
+  - Gustavo Turecki
+  - Arne E. Vaaler
+  - Eduard Vieta
+  - John B. Vincent
+  - Irwin D. Waldman
+  - Thomas W. Weickert
+  - Thomas Werge
+  - Naomi R. Wray
+  - John-Anker Zwart
+  - Joanna M. Biernacka
+  - John I. Nurnberger
+  - Sven Cichon
+  - Howard J. Edenberg
+  - Eli A. Stahl
+  - Andrew McQuillin
+  - Arianna Di Florio
+  - Roel A. Ophoff
+  - Ole A. Andreassen
+  publisher: Nature Genetics
+  date: '2021-05-17'
+  link: https://doi.org/gj3nqj
+  orcid: 0000-0002-3685-4126
+  jess-yang: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S2215-0366(21)00253-4
+  title: 'Post-partum psychosis and its association with bipolar disorder in the UK:
+    a case-control study using polygenic risk scores'
+  authors:
+  - Arianna Di Florio
+  - Jessica Mei Kay Yang
+  - Karen Crawford
+  - Veerle Bergink
+  - Ganna Leonenko
+  - "Antonio F Pardi\xF1as"
+  - Valentina Escott-Price
+  - Katherine Gordon-Smith
+  - Michael J Owen
+  - Nick Craddock
+  - Lisa Jones
+  - Michael O'Donovan
+  - Ian Jones
+  publisher: The Lancet Psychiatry
+  date: '2021-12-01'
+  link: https://doi.org/g9vp85
+  orcid: 0000-0002-3685-4126
+  jess-yang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +1494,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +1510,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
