@@ -1,10 +1,10 @@
 ---
-name: John Doe
+name: Chloe Apsey
 image: images/photo.jpg
+description:  Programmer
 role: phd
-group: alum
 links:
-  github: john-doe
+  email: sarah.johnson@gmail.com
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
