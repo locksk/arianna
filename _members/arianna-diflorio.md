@@ -1,6 +1,6 @@
 ---
 name: Arianna Di Florio
-image: images/photo.jpg
+image: images/arianna-diflorio.jpg
 role: principal-investigator
 affiliation: Cardiff University
 links:

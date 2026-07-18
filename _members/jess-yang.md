@@ -1,6 +1,6 @@
 ---
 name: Jess Yang
-image: images/photo.jpg
+image: images/jess-yang.jpg
 role: postdoctoral-researcher
 affiliation: Cardiff University
 links:

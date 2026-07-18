@@ -1,6 +1,6 @@
 ---
 name: Lisa Shitomi-Jones
-image: images/photo.jpg
+image: images/lisa-shitomijones.jpg
 role: phd
 role: research-assistant
 affiliation: Cardiff University

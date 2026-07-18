@@ -1,7 +1,6 @@
 ---
 name: Chloe Apsey
 image: images/photo.jpg
-description:  Programmer
 role: phd
 links:
   email: sarah.johnson@gmail.com
