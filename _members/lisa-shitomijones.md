@@ -2,7 +2,6 @@
 name: Lisa Shitomi-Jones
 image: images/lisa-shitomijones.jpg
 role: phd
-role: research-assistant
 affiliation: Cardiff University
 links:
   github: https://github.com/lms-j
