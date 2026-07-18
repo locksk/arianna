@@ -1,8 +1,8 @@
 [data-dark=false] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
+  --primary: #5D4157;
+  --secondary: #822d8d;
   --text: #000000;
-  --background: #ffffff;
+  --background: #EFEFEF;
   --background-alt: #fafafa;
   --light-gray: #e0e0e0;
   --gray: #808080;
@@ -23,8 +23,8 @@
 }
 
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
+  --title: "Junge", serif;
+  --heading: "Castoro Titling", serif;
   --body: "Barlow", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
