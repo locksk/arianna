@@ -13,19 +13,19 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="DiFlorioA@cardiff.ac.uk"
-  link="DiFlorioA@cardiff.ac.uk"
+  text="E-mail"
+  link="reproductivementalhealth@cardiff.ac.uk"
 %}
 {%
   include button.html
   type="phone"
-  text="029206 88382"
+  text="Phone"
   link="+44 29206 88382"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
+  text="Address"
   link="https://maps.app.goo.gl/mGUrehMZj1aKULRV8"
 %}
 
@@ -35,8 +35,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/cardiff.jpg"
+  caption="Cardiff University Main Building"
 %}
 
 {% endcapture %}
@@ -45,8 +45,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/heb.jpg"
+  caption="Hadyn Ellis Building"
 %}
 
 {% endcapture %}
