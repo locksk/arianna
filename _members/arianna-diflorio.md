@@ -10,6 +10,8 @@ links:
   twitter: https://x.com/AriannaDiFlorio
 ---
 
+### About
+
 I am Professor of Psychiatry at Cardiff University and Honorary Consultant Psychiatrist at Cardiff and Vale University Health Board, with an honorary academic position at the University of North Carolina at Chapel Hill, where I trained in reproductive mental health. I serve as Clinical Lead for Cardiff University Psychiatry Service.
 
 In 2016, I established the UK's first clinical and research programme in reproductive mental health at Cardiff University. I lead the [Reproductive Mental Health Clinic](https://www.cardiff.ac.uk/reproductive-mental-health-programme/clinic), a pioneering service providing expert assessment and treatment for mental health conditions linked to reproductive life stages, including the menstrual cycle, pregnancy, childbirth, and menopause. The clinic offers specialized pre-conception counselling and gender-informed second opinions for women with severe mental illness. As the first and only service of its kind in the United Kingdom, the clinic brings expertise in behavioural endocrinology from specialized training at the internationally renowned UNC Center for Women's Mood Disorders.
