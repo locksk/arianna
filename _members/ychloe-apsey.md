@@ -2,9 +2,12 @@
 name: Chloe Apsey
 image: images/photo.jpg
 role: phd
-description: Research Student at the Division of Psychological Medicine and Clinical Neurosciences 
+description: Research Student at the DPMCN 
 links:
   email: ApseyCJ@cardiff.ac.uk
+  linkedin: https://www.linkedin.com/in/chloe-apsey-39a29017a/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Research Assistant & PhD Student at Cardiff University, researching Premenstrual Dysphoric Disorder and mood disorders in the menstrual cycle. 
+
+Primary focus on the PreDDICT: Premenstrual Dysphoric Disorder; indicators; causes & treatments project - https://www.ncmh.info/help-with-research/preddict/ . Additional interest in menstrual psychosis and the neuroinflammatory/ALLO theory of PMDD.

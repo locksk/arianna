@@ -1,7 +1,8 @@
 ---
 name: Ian Jones
 image: images/ian-jones.jpg
-role: pi
+role: principal-investigator
+description: Director/Clinical Professor at the National Centre for Mental Health and Emeritus Professor at the School of Medicine
 affiliation: Cardiff University
 links:
   email: JonesIR1@cardiff.ac.uk

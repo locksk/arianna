@@ -1,11 +1,10 @@
 ---
 title: Participate
 nav:
-  order: 6
-  tooltip: Get involved!
+  order: 3
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %} Participate in Our Research
+# Participate in Our Research
 
 We are actively recruiting participants for studies investigating the links between reproductive hormones and mental health. Your participation can help advance our understanding of these conditions and improve care for future generations:
 

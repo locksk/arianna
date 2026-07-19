@@ -2,11 +2,14 @@
 name: Jess Yang
 image: images/jess-yang.jpg
 role: postdoc
-description: Bioinformatician and Research associate at the Division of Psychological Medicine and Clinical Neurosciences 
+description: Bioinformatician and Research associate at the DPMCN 
 affiliation: Cardiff University
 links:
   email: YangJM1@cardiff.ac.uk
+  google-scholar: https://scholar.google.co.uk/citations?user=K8hVS2wAAAAJ&hl=en&oi=sra
   orcid: 0000-0002-3685-4126
+  linkedin: https://www.linkedin.com/in/jmkyang/
+  twitter: https://x.com/JMK_Yang
 
 ---
 

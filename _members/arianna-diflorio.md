@@ -2,11 +2,12 @@
 name: Arianna Di Florio
 image: images/arianna-diflorio.jpg
 role: principal-investigator
-description: Professor at the Division of Psychological Medicine and Clinical Neurosciences 
+description: Professor at the DPMCN
 affiliation: Cardiff University
 links:
   email: DiFlorioA@cardiff.ac.uk
   orcid: 0000-0003-0338-2748
+  twitter: https://x.com/AriannaDiFlorio
 ---
 
 I am Professor of Psychiatry at Cardiff University and Honorary Consultant Psychiatrist at Cardiff and Vale University Health Board, with an honorary academic position at the University of North Carolina at Chapel Hill, where I trained in reproductive mental health. I serve as Clinical Lead for Cardiff University Psychiatry Service.

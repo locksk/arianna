@@ -1,6 +1,6 @@
 ---
 name: Little cats
-image: images/photo.jpg
+image: images/cats.png
 role: mascot
 affiliation: Cardiff University
 links:
