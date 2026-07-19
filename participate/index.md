@@ -27,7 +27,7 @@ We are actively recruiting participants for studies investigating the links betw
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/research.png"
   caption="Understanding severe mental illness during pregnancy and following childbirth to improve treatments and support"
 %}
 
