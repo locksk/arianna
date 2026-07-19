@@ -3,13 +3,59 @@
 
 # Investigating Reproductive Mental Health at Cardiff
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed fringilla nibh. Donec lectus nibh, pellentesque vitae tortor id, iaculis convallis eros. Integer finibus, mi et auctor cursus, diam mauris gravida diam, sit amet efficitur arcu magna in elit. Etiam aliquam ipsum at tellus auctor dictum. Nunc ut neque eu odio vestibulum placerat. Curabitur eleifend imperdiet quam non gravida. Morbi in cursus massa, id egestas dolor. Quisque tempor erat rhoncus, imperdiet massa id, molestie massa. Aenean et neque id justo venenatis euismod sed quis magna. Maecenas faucibus mi pharetra, elementum dui convallis, interdum massa. In in fermentum neque.
+Based in the Division of Psychological Medicine and Clinical Neuroscience (DPMCN) at Cardiff University, we are a new research programme working with centres such as the Centre for Neuropsychiatric Genetics and Genomics, and the National Centre for Mental Health (NCMH).
 
-Aliquam lobortis finibus turpis, in sagittis massa fermentum eleifend. Nullam tincidunt et quam in rutrum. Suspendisse quis condimentum arcu, sed suscipit mauris. Sed efficitur eros ut sollicitudin ornare. Maecenas tincidunt malesuada aliquet. Maecenas vehicula efficitur lorem et facilisis. Donec a diam ligula. Phasellus blandit risus tellus, at luctus felis pharetra sit amet. Fusce ornare feugiat magna, sed gravida dui hendrerit in. Sed pellentesque commodo lacus bibendum varius. Quisque nec euismod leo, sit amet tincidunt enim. Etiam euismod erat odio, vitae efficitur nulla molestie et.
+Our mission is to better understand how reproductive events such as pregnancy, the menstrual cycle and reproductive ageing impact mental health. In particular our research program is currently focusing on why some people develop severe mental illness in relation to reproductive events and some don’t.
+
+Some of the questions we seek to answer:
+
+* What genetic factors increase someone’s risk of experiencing these illnesses?
+* What parts of your early development can make an impact?
+* What environmental circumstances make symptoms worse?
+
+### Reproductive mental health
+Reproductive mental illness affects roughly 5-15% of women and people assigned female at birth (AFAB) at some time in their lives.
+
+This programme comes at a pivotal time when these conditions and issues are receiving more attention, and the experiences of more women and AFAB people are being taken seriously.
+
+We believe in bringing together world-leading experts and individuals with lived experience to tackle these difficult questions.
+
+### Collaborators
+We collaborate with individual clinicians, academics and research groups in Cardiff and beyond.
+
+Our main collaborators within the University are:
+
+* [National Centre for Mental Health (NCMH)](https://www.ncmh.info/)
+* [Centre for Neuropsychiatric Genetics and Genomics (CNGG)](https://cardiff.ac.uk/cngg)
+
+### Funding
+Our research is made possible thanks to a [European Research Council](https://erc.europa.eu/) (ERC) grant from the Research and Innovation programme, Horizon 2020. Professor Arianna di Florio, our programme's lead researcher, was awarded €1.5m to conduct the first molecular genetic study of psychiatric sensitivity to sex hormone changes.
 
 {% include section.html %}
 
 ## Highlights
+{% capture text %}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/team.png"
+  link="team"
+  title="Our Team"
+  text=text
+%}
 
 {% capture text %}
 
@@ -28,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
@@ -59,28 +105,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-{% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
 
 {% capture text %}
 
