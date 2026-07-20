@@ -124,7 +124,7 @@ Text about getting involved
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/participate.png"
   link="participate"
   title="Get involved"
   flip=true
