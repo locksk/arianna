@@ -31,7 +31,7 @@ Our main collaborators within the University are:
 ### Funding
 Our research is made possible thanks to a [European Research Council](https://erc.europa.eu/) (ERC) grant from the Research and Innovation programme, Horizon 2020. Professor Arianna di Florio, our programme's lead researcher, was awarded €1.5m to conduct the first molecular genetic study of psychiatric sensitivity to sex hormone changes.
 
-{% include section.html %}
+<!-- {% include section.html %}
 
 ## Highlights
 {% capture text %}
@@ -131,3 +131,4 @@ Text about getting involved
   style="bare"
   text=text
 %}
+ -->
