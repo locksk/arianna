@@ -6,13 +6,11 @@
   tags:
     - research
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Childbirth
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://locksk.github.io/arianna/projects/childbirth/
+  description: Research relating to severe mental illness around pregnancy and postpartum.
   tags:
     - research
 
