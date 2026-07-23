@@ -1481,6 +1481,29 @@
   jess-yang: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/s2215-0366(23)00002-0
+  title: 'Pharmacokinetics and pharmacogenomics of clozapine in an ancestrally diverse
+    sample: a longitudinal analysis and genome-wide association study using UK clinical
+    monitoring data'
+  authors:
+  - "Antonio F Pardi\xF1as"
+  - Djenifer B Kappel
+  - Milly Roberts
+  - Francesca Tipple
+  - Lisa M Shitomi-Jones
+  - Adrian King
+  - John Jansen
+  - Marinka Helthuis
+  - Michael J Owen
+  - Michael C O'Donovan
+  - James T R Walters
+  publisher: The Lancet Psychiatry
+  date: '2023-03-01'
+  link: https://doi.org/grv8cz
+  orcid: 0009-0008-7433-0498
+  lisa-shitomijones: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
