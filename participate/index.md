@@ -1,33 +1,30 @@
 ---
 title: Participate
 nav:
-  order: 3
+  order: 4
 ---
 
 # Participate in Our Research
 
 We are actively recruiting participants for studies investigating the links between reproductive hormones and mental health. Your participation can help advance our understanding of these conditions and improve care for future generations:
 
-* [PreDDICT Study](https://www.ncmh.info/help-with-research/preddict/) - Investigating the genetic and environmental factors associated with Premenstrual Dysphoric Disorder (PMDD) and severe Premenstrual Syndrome (PMS)
-* [Mums and Mental Health (MAM) Study](https://www.ncmh.info/help-with-research/mums-and-mental-health/) - Understanding severe mental illness during pregnancy and following childbirth to improve treatments and support
-* Menopause questionnaire
-
 {% include section.html %}
 
 #### PreDDICT
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[PreDDICT Study](https://www.ncmh.info/help-with-research/preddict/) - Investigating the genetic and environmental factors associated with Premenstrual Dysphoric Disorder (PMDD) and severe Premenstrual Syndrome (PMS)
 
 <br>
 <br>
 
 #### Mums and Mental Health 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[Mums and Mental Health (MAM) Study](https://www.ncmh.info/help-with-research/mums-and-mental-health/) - Understanding severe mental illness during pregnancy and following childbirth to improve treatments and support
+
 
 <br>
 <br>
 
 #### Menopause Questionnaire
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Menopause questionnaire
 
 <br>
 <br>
