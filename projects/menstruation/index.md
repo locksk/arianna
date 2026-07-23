@@ -8,7 +8,7 @@ We're working towards a better understanding of premenstrual dysphoric disorder 
 
 {% include section.html %}
 
-## Premenstrual Dysphoric Disorder research
+## Premenstrual Dysphoric Disorder
 Premenstrual Dysphoric Disorder (PMDD) is a mood disorder which is estimated to affect around 5.5% of people who experience periods. During the week before the onset of menstrual bleeding (aka. the luteal phase), people with PMDD experience severe mood symptoms that make daily activities difficult. These symptoms begin to improve within a few days after the onset of menstrual bleeding (the period).
 
 The Diagnostic and Statistical Manual of Mental Disorders (DSM5) criteria for PMDD requires five of the main symptoms present for more than two menstrual cycles which severely affect social and daily functioning.
@@ -43,7 +43,7 @@ Some participants may also be re-contacted inviting them to provide a genetic sa
 <br>
 
 
-## Take part in PMDD research
+## Take part
 By [taking part](https://www.ncmh.info/help-with-research/preddict/) in PMDD research, you can help us learn more about these life-changing conditions.
 
 We are looking for volunteers to help us with a range of research projects. Read more about our [studies that are currently recruiting](https://locksk.github.io/arianna/projects/).
