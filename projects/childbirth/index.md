@@ -37,7 +37,7 @@ We are looking for volunteers to help us with a range of research projects. Read
 ## Publications
 
 {% include citation.html lookup="Postpartum psychosis: a public involvement perspective across three continents" style="rich" %}
-{% include citation.html lookup="Formation of a stakeholder group of women with a lived experience of Post-partum Psychoses (PP) \u2013 Experience from a perinatal psychiatry service in India" style="rich" %}
+{% include citation.html lookup="Formation of a stakeholder group of women with a lived experience of Post-partum Psychoses (PP) Experience from a perinatal psychiatry service in India" style="rich" %}
 {% include citation.html lookup="Post-partum psychosis and its association with bipolar disorder in the UK: a case-control study using polygenic risk scores" style="rich" %}
 
 {% include section.html %}
