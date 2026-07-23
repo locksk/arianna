@@ -1532,3 +1532,15 @@
   link: https://doi.org/hccd4m
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.2196/59333
+  title: 'Developing a Mood and Menstrual Tracking App for People With Premenstrual
+    Dysphoric Disorder: User-Centered Design Study'
+  authors:
+  - Chloe Apsey
+  - Arianna Di Florio
+  - Katarzyna Stawarz
+  publisher: JMIR Formative Research
+  date: '2024-12-24'
+  link: https://doi.org/hccd4n
+  plugin: sources.py
+  file: sources.yaml
