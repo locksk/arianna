@@ -6,8 +6,11 @@ nav:
 
 # Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research is focused on improving diagnosis and prevention and finding new treatments for reproductive mental illnesses across three themes.
+
+Reproductive mental health problems affect 5-15% of women and people assigned female at birth (AFAB) at some time in their lives.
+
+We are studying how our genes can help identify women and AFAB people who are at risk of psychiatric disorders in relation to changes in their sex hormones.
 
 {% include search-info.html %}
 
