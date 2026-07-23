@@ -23,32 +23,32 @@ Track your symptoms over two menstrual cycles using this [mood diary resource](h
 ## Videos
 Find out more about PreDDICT study
 Want to know more about PMDD and what to expect when taking part in the PreDDICT study?
+
 ![](https://www.youtube.com/watch?v=2FDlUEsmYyQ)
 
-Content unavailable
-This content is not available because your cookie preferences do not allow it. In order to view this content, you will need to allow cookies that:
 
-help with our advertising and marketing
-enable useful features
-Enable cookies
-Or view the content on Youtube
+## Webinars
+### Understanding Postpartum Psychosis
 
-Webinars
-Understanding Postpartum Psychosis
+![](https://www.youtube.com/watch?v=h12FQWkryLU&t=3s)
 
-
-Thanks to Dr Sally Wilson and Zebunisa from Action on Postpartum Psychosis (APP) who shared their personal experiences during this webinar with Professor Ian Jones, director of the National Centre for Mental Health.
+Thanks to Dr Sally Wilson and Zebunisa from [Action on Postpartum Psychosis (APP)](https://www.app-network.org/) who shared their personal experiences during this webinar with Professor Ian Jones, director of the National Centre for Mental Health.
 
 APP is the national charity for women and families affected by postpartum psychosis. Thanks also go to Professor Arianna di Florio, who shared the latest on her research in this area and launched a new study into Postpartum Psychosis.
 
-PMDD: Myths and misconceptions
->
+### PMDD: Myths and misconceptions
+
+![](https://www.youtube.com/watch?v=EnEY_EO1J1Y)
 
 Hear from our researchers at Cardiff University and guest speaker Laura Murphy, Director of Education and Awareness at the International Association of Premenstrual Disorders. Laura has lived experience of Premenstrual Dysphoric Disorder (PMDD) and shares her story in the hopes of raising awareness of PMDD.
 
 She is joined by our host, Professor Arianna di Florio, lead researcher of the Reproductive Mental Health Programme at Cardiff University, and Research Assistant, Chloe Apsey. Arianna and Chloe launched a new study into PMDD in September 2022 - PreDDICT (Premenstrual Dysphoric Disorder - indicators, causes and triggers).
 
-See more webinars from NCMH
+### Menopause and mental illness
+
+![](https://www.youtube.com/watch?v=M1j5oL_miWQ)
+
+This webinar provides a solid basis of understanding on the perimenopause from Psychiatrist and Cardiff University Professor Arianna Di Florio, the latest in menopause research from Lisa Shitomi-Jones and a lived experience perspective from Dr Clare Dolman. 
 
 {% capture col1 %}
 
