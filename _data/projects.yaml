@@ -2,7 +2,7 @@
   group: featured
   image: images/photo.jpg
   link: https://locksk.github.io/arianna/projects/menstruation/
-  description: Research relating to severe mental illness around menarche and menstruation.
+  description: <center> Research relating to severe mental illness around menarche and menstruation. </center>
   tags:
     - research
 
@@ -10,7 +10,7 @@
   group: featured
   image: images/photo.jpg
   link: https://locksk.github.io/arianna/projects/childbirth/
-  description: Research relating to severe mental illness around pregnancy and postpartum.
+  description: <center> Research relating to severe mental illness around pregnancy and postpartum. </center>
   tags:
     - research
 
