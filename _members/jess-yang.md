@@ -8,6 +8,7 @@ links:
   email: YangJM1@cardiff.ac.uk
   google-scholar: https://scholar.google.co.uk/citations?user=K8hVS2wAAAAJ&hl=en&oi=sra
   orcid: 0000-0002-3685-4126
+  github: https://github.com/jmkyang
   linkedin: https://www.linkedin.com/in/jmkyang/
   twitter: https://x.com/JMK_Yang
 
