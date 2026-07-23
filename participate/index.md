@@ -10,6 +10,7 @@ We are actively recruiting participants for studies investigating the links betw
 
 * [PreDDICT Study](https://www.ncmh.info/help-with-research/preddict/) - Investigating the genetic and environmental factors associated with Premenstrual Dysphoric Disorder (PMDD) and severe Premenstrual Syndrome (PMS)
 * [Mums and Mental Health (MAM) Study](https://www.ncmh.info/help-with-research/mums-and-mental-health/) - Understanding severe mental illness during pregnancy and following childbirth to improve treatments and support
+* Menopause questionnaire
 
 {% include section.html %}
 
