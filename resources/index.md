@@ -14,14 +14,14 @@ We have created a number of resources to raise awareness and reduce the stigma a
 ## Leaflets
 - [Premenstrual Dysphoric Disorder (PMDD)](https://www.ncmh.info/wp-content/uploads/2023/06/PMDD-A5-English-WEB.pdf)
 - [Bipolar disorder, pregnancy and childbirth](https://www.ncmh.info/wp-content/uploads/2016/10/Bipolar-disorder-pregnancy-childbirth.pdf)
+
 The National Centre for Mental Health has a [leaflet library](https://www.ncmh.info/leaflets/) available about a range of mental health conditions.
 
 ## Mood diary
-Track your symptoms over two menstrual cycles using this [mood diary resource](https://www.cardiff.ac.uk/__data/assets/pdf_file/0010/2898748/mood-diary.pdf). This can be used to take you to your GP.
+Track your symptoms over two menstrual cycles using this [mood diary resource](https://www.cardiff.ac.uk/__data/assets/pdf_file/0010/2898748/mood-diary.pdf). This can be filled out and taken to your GP.
 
 
 ## Videos
-Find out more about PreDDICT study
 Want to know more about PMDD and what to expect when taking part in the PreDDICT study?
 
 ![](https://www.youtube.com/watch?v=2FDlUEsmYyQ)
