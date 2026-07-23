@@ -26,7 +26,6 @@ PMDD is directly linked to the menstrual cycle – however, it is not a result o
 There are a variety of treatment options for PMDD, ranging from dietary/nutritional changes to medications to help stabilise mood. The effectiveness of these treatments can vary, and it is important to find the best methods or combination of methods that work for each person’s symptoms.
 
 <br>
-<br>
 
 ## About the project
 As part of the Reproductive Mental Health Programme, we are running the project PreDDICT: Premenstrual Dysphoric Disorder - Indicators, Causes and Triggers.
@@ -42,7 +41,6 @@ Participants will be asked to complete a 20 to 30-minute questionnaire which wil
 Some participants may also be re-contacted inviting them to provide a genetic sample in the form of a spit-kit via the post.
 
 <br>
-<br>
 
 
 ## Take part in PMDD research
@@ -51,10 +49,11 @@ By [taking part] (https://www.ncmh.info/help-with-research/preddict/) in PMDD re
 We are looking for volunteers to help us with a range of research projects. Read more about our [studies that are currently recruiting] (https://locksk.github.io/arianna/projects/).
 
 <br>
-<br>
 
 ## Publications
 
-{% include citation.html lookup="Letter to the editor: Having two children might not be best for women's mental health" style="rich" %}
+{% include citation.html lookup="Etiologic Studies of Premenstrual Disorders Require Prospective Confirmation of Affective Cyclicity" style="rich" %}
+
+{% include citation.html lookup="Developing a Mood and Menstrual Tracking App for People With Premenstrual Dysphoric Disorder: User-Centered Design Study" style="rich" %}
 
 {% include section.html %}
