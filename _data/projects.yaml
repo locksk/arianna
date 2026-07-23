@@ -14,12 +14,11 @@
   tags:
     - research
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Menopause
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://locksk.github.io/arianna/projects/menopause/
+  description: <center> Research relating to peri- and post-menopausal severe mental illness </center>
+
   tags:
     - research
