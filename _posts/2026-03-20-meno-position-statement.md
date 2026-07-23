@@ -1,5 +1,5 @@
 ---
-title: Perimenopause linked with increased risk of bipolar and major depression
+title: Position Statement Launched on Menopause and Mental Health
 author: Lisa Shitomi-Jones
 tags:
   - perimenopause
