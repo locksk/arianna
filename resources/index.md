@@ -18,7 +18,6 @@ We have created a number of resources to raise awareness and reduce the stigma a
 The National Centre for Mental Health has a [leaflet library](https://www.ncmh.info/leaflets/) available about a range of mental health conditions.
 
 <br>
-<br>
 
 ## Mood diary
 Track your symptoms over two menstrual cycles using this [mood diary resource](https://www.cardiff.ac.uk/__data/assets/pdf_file/0010/2898748/mood-diary.pdf). This can be filled out and taken to your GP.
@@ -31,14 +30,12 @@ Track your symptoms over two menstrual cycles using this [mood diary resource](h
 %}
 
 <br>
-<br>
 
 ## Videos
 Want to know more about PMDD and what to expect when taking part in the PreDDICT study?
 
 ![](https://www.youtube.com/watch?v=2FDlUEsmYyQ)
 
-<br>
 <br>
 
 ## Webinars
@@ -64,26 +61,6 @@ She is joined by our host, Professor Arianna di Florio, lead researcher of the R
 
 This webinar provides a solid basis of understanding on the perimenopause from Psychiatrist and Cardiff University Professor Arianna Di Florio, the latest in menopause research from Lisa Shitomi-Jones and a lived experience perspective from Dr Clare Dolman. 
 
-{% capture col1 %}
 
-{%
-  include figure.html
-  image="images/preddict.jpg"
-  caption="Investigating the genetic and environmental factors associated with Premenstrual Dysphoric Disorder (PMDD) and severe Premenstrual Syndrome (PMS)"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/research.png"
-  caption="Understanding severe mental illness during pregnancy and following childbirth to improve treatments and support"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
 
 

@@ -50,6 +50,14 @@ We are looking for volunteers to help us with a range of research projects. Read
 
 <br>
 
+{%
+  include portrait.html
+  lookup="chloe-apsey"
+  style="small"
+%}
+
+<br>
+
 ## Publications
 
 {% include citation.html lookup="Etiologic Studies of Premenstrual Disorders Require Prospective Confirmation of Affective Cyclicity" style="rich" %}
