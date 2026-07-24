@@ -6,6 +6,13 @@ title: Childbirth
 
 Working towards better understanding of postpartum mental illness to reduce stigma, and improve early identification and treatment.
 
+{%
+  include portrait.html
+  lookup="jess-yang"
+  style="small"
+%}
+
+
 {% include section.html %}
 
 ## Postpartum psychosis
@@ -33,6 +40,7 @@ If you decide to take part, we will ask you to provide us with some information 
 We need more people to get involved with research to better understand the condition. If you have given birth, please consider [taking part]((https://www.ncmh.info/help-with-research/mums-and-mental-health/)).
 
 We are looking for volunteers to help us with a range of research projects. Read more about our [studies that are currently recruiting](https://locksk.github.io/arianna/projects/).
+
 
 ## Publications
 

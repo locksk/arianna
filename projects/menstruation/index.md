@@ -6,6 +6,13 @@ title: Menstruation
 
 We're working towards a better understanding of premenstrual dysphoric disorder (PMDD) to reduce stigma and improve treatment and diagnosis.
 
+{%
+  include portrait.html
+  lookup="ychloe-apsey"
+  style="small"
+%}
+
+
 {% include section.html %}
 
 ## Premenstrual Dysphoric Disorder
@@ -47,14 +54,6 @@ Some participants may also be re-contacted inviting them to provide a genetic sa
 By [taking part](https://www.ncmh.info/help-with-research/preddict/) in PMDD research, you can help us learn more about these life-changing conditions.
 
 We are looking for volunteers to help us with a range of research projects. Read more about our [studies that are currently recruiting](https://locksk.github.io/arianna/projects/).
-
-<br>
-
-{%
-  include portrait.html
-  lookup="ychloe-apsey"
-  style="small"
-%}
 
 <br>
 
