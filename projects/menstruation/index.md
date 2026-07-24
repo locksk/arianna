@@ -52,7 +52,7 @@ We are looking for volunteers to help us with a range of research projects. Read
 
 {%
   include portrait.html
-  lookup="chloe-apsey"
+  lookup="ychloe-apsey"
   style="small"
 %}
 

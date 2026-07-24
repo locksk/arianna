@@ -27,6 +27,7 @@ Track your symptoms over two menstrual cycles using this [mood diary resource](h
   image="images/mood_diary.png"
   caption="Cover page of NCMH mood diary."
   link="https://www.cardiff.ac.uk/__data/assets/pdf_file/0010/2898748/mood-diary.pdf"
+  width = 400
 %}
 
 <br>

@@ -1,19 +1,19 @@
 - title: Menstruation 
-  image: images/photo.jpg
+  image: images/proj1_menstruation.png
   link: https://locksk.github.io/arianna/projects/menstruation/
   description: <center> Research relating to severe mental illness around menarche and menstruation. </center>
   tags:
     - research
 
 - title: Childbirth
-  image: images/photo.jpg
+  image: images/proj2_childbirth.png
   link: https://locksk.github.io/arianna/projects/childbirth/
   description: <center> Research relating to severe mental illness around pregnancy and postpartum. </center>
   tags:
     - research
 
 - title: Menopause
-  image: images/photo.jpg
+  image: images/proj3_menopause.png
   link: https://locksk.github.io/arianna/projects/menopause/
   description: <center> Research relating to peri- and post-menopausal severe mental illness </center>
   tags:

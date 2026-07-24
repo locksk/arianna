@@ -1,5 +1,5 @@
 ---
-name: Little cats
+name: Daisy
 image: images/cats.png
 role: mascot
 affiliation: Cardiff University
