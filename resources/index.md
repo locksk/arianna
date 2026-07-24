@@ -6,7 +6,7 @@ nav:
 
 # Resources
 
-We have created a number of resources to raise awareness and reduce the stigma around reproductive mental health conditions.
+<center> We have created a number of resources to raise awareness and reduce the stigma around reproductive mental health conditions. </center>
 
 
 {% include section.html %}
@@ -27,7 +27,7 @@ Track your symptoms over two menstrual cycles using this [mood diary resource](h
   image="images/mood_diary.png"
   caption="Cover page of NCMH mood diary."
   link="https://www.cardiff.ac.uk/__data/assets/pdf_file/0010/2898748/mood-diary.pdf"
-  width = 200
+  width = "100px"
 %}
 
 <br>
@@ -35,14 +35,14 @@ Track your symptoms over two menstrual cycles using this [mood diary resource](h
 ## Videos
 Want to know more about PMDD and what to expect when taking part in the PreDDICT study?
 
-![](https://www.youtube.com/watch?v=2FDlUEsmYyQ)
+<center> ![](https://www.youtube.com/watch?v=2FDlUEsmYyQ) </center>
 
 <br>
 
 ## Webinars
 ### Understanding Postpartum Psychosis
 
-![](https://www.youtube.com/watch?v=h12FQWkryLU&t=3s)
+<center> ![](https://www.youtube.com/watch?v=h12FQWkryLU&t=3s) </center>
 
 Thanks to Dr Sally Wilson and Zebunisa from [Action on Postpartum Psychosis (APP)](https://www.app-network.org/) who shared their personal experiences during this webinar with Professor Ian Jones, director of the National Centre for Mental Health.
 
@@ -50,7 +50,7 @@ APP is the national charity for women and families affected by postpartum psycho
 
 ### PMDD: Myths and misconceptions
 
-![](https://www.youtube.com/watch?v=EnEY_EO1J1Y)
+<center> ![](https://www.youtube.com/watch?v=EnEY_EO1J1Y) </center>
 
 Hear from our researchers at Cardiff University and guest speaker Laura Murphy, Director of Education and Awareness at the International Association of Premenstrual Disorders. Laura has lived experience of Premenstrual Dysphoric Disorder (PMDD) and shares her story in the hopes of raising awareness of PMDD.
 
@@ -58,7 +58,7 @@ She is joined by our host, Professor Arianna di Florio, lead researcher of the R
 
 ### Menopause and mental illness
 
-![](https://www.youtube.com/watch?v=M1j5oL_miWQ)
+<center> ![](https://www.youtube.com/watch?v=M1j5oL_miWQ) </center>
 
 This webinar provides a solid basis of understanding on the perimenopause from Psychiatrist and Cardiff University Professor Arianna Di Florio, the latest in menopause research from Lisa Shitomi-Jones and a lived experience perspective from Dr Clare Dolman. 
 

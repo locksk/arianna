@@ -6,7 +6,7 @@ nav:
 
 # Research
 
-We have contributed to over 100 publications in a number of peer-reviewed journals. 
+<center> We have contributed to over 100 publications in a number of peer-reviewed journals. </center> 
 
 {% include section.html %}
 

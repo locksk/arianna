@@ -6,7 +6,7 @@ nav:
 
 # Participate in Our Research
 
-We are actively recruiting participants for studies investigating the links between reproductive hormones and mental health. Your participation can help advance our understanding of these conditions and improve care for future generations:
+<center> We are actively recruiting participants for studies investigating the links between reproductive hormones and mental health. Your participation can help advance our understanding of these conditions and improve care for future generations: </center>
 
 {% include section.html %}
 
