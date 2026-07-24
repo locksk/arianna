@@ -20,6 +20,14 @@ This programme comes at a pivotal time when these conditions and issues are rece
 
 We believe in bringing together world-leading experts and individuals with lived experience to tackle these difficult questions.
 
+{%
+  include figure.html
+  image="images/team.png"
+  caption="The team."
+  link="https://locksk.github.io/arianna/team/"
+  width = "400px"
+%}
+
 ### Collaborators
 We collaborate with individual clinicians, academics and research groups in Cardiff and beyond.
 
