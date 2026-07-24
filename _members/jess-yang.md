@@ -2,7 +2,7 @@
 name: Jess Yang
 image: images/jess-yang.jpg
 role: postdoc
-description: Bioinformatician and Research associate at the DPMCN 
+description: Bioinformatician and Research Associate at the DPMCN 
 affiliation: Cardiff University
 links:
   email: YangJM1@cardiff.ac.uk
