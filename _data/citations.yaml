@@ -11,10 +11,11 @@
   publisher: Journal of Affective Disorders
   date: '2026-02-01'
   link: https://doi.org/hcb27p
-  orcid: 0000-0002-3685-4126
+  orcid: 0009-0008-7433-0498
   jess-yang: true
   plugin: orcid.py
   file: orcid.yaml
+  lisa-shitomijones: true
 - id: doi:10.1101/2025.06.23.25330155
   title: Genomic dimensions deconstruct the clinical heterogeneity of bipolar disorder
   authors:
@@ -1481,6 +1482,24 @@
   jess-yang: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s44220-024-00292-4
+  title: Exploration of first onsets of mania, schizophrenia spectrum disorders and
+    major depressive disorder in perimenopause
+  authors:
+  - Lisa M. Shitomi-Jones
+  - Clare Dolman
+  - Ian Jones
+  - George Kirov
+  - Valentina Escott-Price
+  - Sophie E. Legge
+  - Arianna Di Florio
+  publisher: Nature Mental Health
+  date: '2024-08-15'
+  link: https://doi.org/hccdv5
+  orcid: 0009-0008-7433-0498
+  lisa-shitomijones: true
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/s2215-0366(23)00002-0
   title: 'Pharmacokinetics and pharmacogenomics of clozapine in an ancestrally diverse
     sample: a longitudinal analysis and genome-wide association study using UK clinical
@@ -1504,22 +1523,6 @@
   lisa-shitomijones: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s44220-024-00292-4
-  title: Exploration of first onsets of mania, schizophrenia spectrum disorders and
-    major depressive disorder in perimenopause
-  authors:
-  - Lisa M. Shitomi-Jones
-  - Clare Dolman
-  - Ian Jones
-  - George Kirov
-  - Valentina Escott-Price
-  - Sophie E. Legge
-  - Arianna Di Florio
-  publisher: Nature Mental Health
-  date: '2024-08-15'
-  link: https://doi.org/hccdv5
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1001/jamapsychiatry.2023.3287
   title: Etiologic Studies of Premenstrual Disorders Require Prospective Confirmation
     of Affective Cyclicity
