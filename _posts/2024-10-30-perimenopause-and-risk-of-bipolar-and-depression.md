@@ -4,6 +4,7 @@ author: Lisa Shitomi-Jones and Arianna Di Florio
 tags:
   - research
   - bipolar disorder
+  - depression
   - perimenopause
 ---
 
