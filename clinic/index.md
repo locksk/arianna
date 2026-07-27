@@ -14,6 +14,8 @@ We also provide a second gender-friendly opinion on the diagnosis and management
 
 CUPS is a referral-only clinical service that draws on the world-leading clinical expertise at the university. This service is delivered jointly through Cardiff University and Cardiff and Vale University Health Board.
 
+<br>
+
 ## Accessing our services
 We can only accept referrals from mental health teams involved in the ongoing care of the person being referred. Please note that we are unable to accept self-referrals.
 
@@ -33,9 +35,9 @@ You can read more about our clinical academic staff and the areas where we offer
 ## Contact us
 Please send referrals to:
 
-CUPS
-Hadyn Ellis Building
-Clinic Coordinator
-Maindy Road
-Cardiff
-CF24 4HQ
+CUPS <p>
+Hadyn Ellis Building <p>
+Clinic Coordinator <p>
+Maindy Road <p>
+Cardiff <p>
+CF24 4HQ <p>
