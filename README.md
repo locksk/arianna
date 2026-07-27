@@ -5,6 +5,6 @@
 
   # Reproductive Mental Health at Cardiff Univerisity
 
-  Click **[here](https://locksk.github.io/arianna)** to find out more! 🧠 
+  Click **[locksk.github.io/arianna](https://locksk.github.io/arianna)** to find out more! 🧠 
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
