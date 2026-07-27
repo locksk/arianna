@@ -3,8 +3,8 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # locksk's Website
+  # Reproductive Mental Health at Cardiff Univerisity
 
-  Visit **[locksk.github.io/arianna](https://locksk.github.io/arianna)** 🚀
+  Click **[here](https://locksk.github.io/arianna)** to find out more! 🧠 
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_

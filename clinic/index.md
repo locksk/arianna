@@ -17,6 +17,7 @@ CUPS is a referral-only clinical service that draws on the world-leading clinica
 <br>
 
 ## Accessing our services
+
 We can only accept referrals from mental health teams involved in the ongoing care of the person being referred. Please note that we are unable to accept self-referrals.
 
 If you would like a second opinion from the CUPS, then you will need to discuss this with your clinical team.
@@ -26,6 +27,7 @@ Please address referrals to one of our individual clinicians listed below.
 <br>
 
 ## Our clinicians
+
 You can read more about our clinical academic staff and the areas where we offer a second opinion.
 
 {% include list.html data="members" component="portrait" filter="name == 'Arianna Di Florio' or name == 'Ian Jones'" %}
@@ -33,11 +35,7 @@ You can read more about our clinical academic staff and the areas where we offer
 <br>
 
 ## Contact us
-Please send referrals to:
 
-CUPS <p>
-Hadyn Ellis Building <p>
-Clinic Coordinator <p>
-Maindy Road <p>
-Cardiff <p>
-CF24 4HQ <p>
+Please send referrals to: <p>
+
+CUPS, Hadyn Ellis Building, Clinic Coordinator, Maindy Road, Cardiff, sCF24 4HQ
