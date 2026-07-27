@@ -8,7 +8,7 @@ tags:
   - publications
 ---
 
-Professor Arianna Di Florio headed the first ever polygenic risk score study of postpartum psychosis. The team found that women who experienced first-onset postpartum psychosis shared similar genetic risk profiles to women who experienced bipolar disorder, with important differences which may inform where to place postpartum psychosis in diagnostic manuals.
+Dr Arianna Di Florio headed the first ever polygenic risk score study of postpartum psychosis. The team found that women who experienced first-onset postpartum psychosis shared similar genetic risk profiles to women who experienced bipolar disorder, with important differences which may inform where to place postpartum psychosis in diagnostic manuals.
 
 Read more at the [blog post on National Centre for Mental Health's website](https://www.cardiff.ac.uk/news/view/2593360-first-genetic-evidence-discovered-which-could-separate-diagnosis-of-postpartum-psychosis-from-bipolar-disorder).
 

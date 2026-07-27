@@ -4,7 +4,7 @@ title: Menstruation
 
 # Menstruation
 
-We're working towards a better understanding of premenstrual dysphoric disorder (PMDD) to reduce stigma and improve treatment and diagnosis.
+<center> We're working towards a better understanding of premenstrual dysphoric disorder (PMDD) to reduce stigma and improve treatment and diagnosis. </center>
 
 {%
   include portrait.html

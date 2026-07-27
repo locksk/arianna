@@ -4,7 +4,7 @@ title: Childbirth
 
 # Childbirth
 
-Working towards better understanding of postpartum mental illness to reduce stigma, and improve early identification and treatment.
+<center> Working towards better understanding of postpartum mental illness to reduce stigma, and improve early identification and treatment. </center>
 
 {%
   include portrait.html
