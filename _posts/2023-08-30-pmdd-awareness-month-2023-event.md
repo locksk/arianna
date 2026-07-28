@@ -1,5 +1,5 @@
 ---
-title: PMDD Awareness Month 2023: Breaking the Stigma
+title: PMDD Awareness Month 2023 - Breaking the Stigma
 author: Chloe Apsey
 tags:
   - pmdd
