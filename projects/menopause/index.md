@@ -9,6 +9,7 @@ title: Menopause
 {%
   include portrait.html
   lookup="lisa-shitomijones"
+  style="small"
 %}
 
 
