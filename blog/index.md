@@ -6,8 +6,7 @@ nav:
 
 # News
 
-<center> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </center>
+<center> Updates, blog posts, awards, and media coverage of the team's research activities. </center>
 
 {% include section.html %}
 
