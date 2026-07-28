@@ -17,7 +17,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </
 <br>
 <br>
 
-{% include list.html data="members" component="portrait" filter="role == 'phd' OR role == 'postdoc'"" %}
-{% include list.html data="members" component="portrait" filter="role == 'developer' OR role == 'mascot'"" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' OR role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'developer' OR role == 'mascot'" %}
 
 
