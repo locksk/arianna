@@ -2,7 +2,7 @@
 name: Lisa Shitomi-Jones
 image: images/lisa-shitomijones.jpg
 role: phd
-description: Research student and Research assistant at the DPMCN
+description: PhD Student and Research Assistant at the DPMCN
 affiliation: Cardiff University
 links:
   email: Shitomi-JonesLM@cardiff.ac.uk
