@@ -35,7 +35,7 @@ Through a comprehensive investigation encompassing psycho-social, clinical, and 
 
 By investigating the relationship between hormonal changes and psychiatric disorders, we want to shed light on this crucial but understudied aspect of women's health.
 
-The research we are conductiong at the moment is using a secondary data set (UK Biobank) and we aren’t yet involved in any primary data collection.
+The research we are conducting at the moment is using a secondary data set (UK Biobank) and we aren’t yet involved in any primary data collection.
 
 ## Take Part
 Members of our team are currently working with the [National Centre for Mental Health](https://www.ncmh.info/) to launch a menopause survey later in 2026. This survey will be open to anyone that has experienced periods and is over the age of 35. 
