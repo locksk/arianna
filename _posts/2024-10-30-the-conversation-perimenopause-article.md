@@ -1,5 +1,5 @@
 ---
-title: The Conversation: Article on Perimenopause and Risk of Bipolar and Major Depression
+title: "The Conversation: Article on Perimenopause and Risk of Bipolar and Major Depression"
 author: Lisa Shitomi-Jones
 tags:
   - perimenopause
