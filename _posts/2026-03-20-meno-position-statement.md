@@ -5,6 +5,7 @@ tags:
   - perimenopause
   - bipolar disorder
   - depression
+  - policy
 ---
 
 Professor Arianna Di Florio attended the launch of the Royal College of Psychiatrists first ever position statement and mental health.
