@@ -1,5 +1,5 @@
 ---
-name: Jess Yang
+name: Jessica Yang
 image: images/jess-yang.jpg
 role: postdoc
 description: Bioinformatician and Research Associate at the DPMCN 
