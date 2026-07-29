@@ -24,7 +24,7 @@ nav:
 <br>
 
 #### Menopause Questionnaire
-Menopause questionnaire
+We are currently preparing a menopause questionnaire to capture people's experiences and symptoms during perimenopause. The questionnaire will be open to anyone who's ever experienced periods and is over the age of 35. We are hoping to receive all neccessary approvals soon to launch the questionnaire later in 2026.
 
 <br>
 <br>
