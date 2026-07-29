@@ -6,9 +6,7 @@ nav:
 
 # Contact
 
-<center> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <center> 
+<center> The team is currently based in the Hadyn Ellis Building in Cardiff University. <center> 
 
 {%
   include button.html
