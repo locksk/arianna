@@ -6,7 +6,7 @@ nav:
 
 # Contact
 
-<center> The team is currently based in the Hadyn Ellis Building in Cardiff University. <center> 
+<center> The team is currently based in the Hadyn Ellis Building at Cardiff University. <center> 
 
 {%
   include button.html
