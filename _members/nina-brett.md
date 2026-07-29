@@ -1,6 +1,6 @@
 ---
 name: Nina Brett
-image: images/nina-brett.jpg
+image: images/nina-brett.png
 role: phd
 description: PhD Student at the Hodge Centre for Translational Neuroscience
 affiliation: Cardiff University
