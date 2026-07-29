@@ -4,7 +4,7 @@ author: Lisa Shitomi-Jones
 tags:
   - perimenopause
   - pmdd
-  - award
+  - awards
 ---
 
 Our team attended the Wales Assembly of Women Conference on 21st March 2026. 
