@@ -6,7 +6,7 @@ description: PhD Student at the DPMCN
 affiliation: Cardiff University
 links:
   email: ApseyCJ@cardiff.ac.uk
-  linkedin: https://www.linkedin.com/in/chloe-apsey-39a29017a/
+  linkedin: chloe-apsey-39a29017a
 ---
 
 ### About 

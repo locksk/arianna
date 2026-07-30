@@ -6,11 +6,11 @@ description: Bioinformatician and Research Associate at the DPMCN
 affiliation: Cardiff University
 links:
   email: YangJM1@cardiff.ac.uk
-  google-scholar: https://scholar.google.co.uk/citations?user=K8hVS2wAAAAJ&hl=en&oi=sra
+  google-scholar: K8hVS2wAAAAJ&hl=en&oi=sra
   orcid: 0000-0002-3685-4126
-  github: https://github.com/jmkyang
-  linkedin: https://www.linkedin.com/in/jmkyang/
-  twitter: https://x.com/JMK_Yang
+  github: jmkyang
+  linkedin: jmkyang
+  twitter: JMK_Yang
 
 ---
 

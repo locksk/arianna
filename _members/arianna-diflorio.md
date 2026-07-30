@@ -7,7 +7,7 @@ affiliation: Cardiff University
 links:
   email: DiFlorioA@cardiff.ac.uk
   orcid: 0000-0003-0338-2748
-  twitter: https://x.com/AriannaDiFlorio
+  twitter: AriannaDiFlorio
 ---
 
 ### About

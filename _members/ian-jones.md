@@ -6,7 +6,7 @@ description: Director/Clinical Professor at the NCMH and Emeritus Professor
 affiliation: Cardiff University
 links:
   email: JonesIR1@cardiff.ac.uk
-  google-scholar: https://scholar.google.com/citations?user=OF9hMv0AAAAJ&hl=en
+  google-scholar: OF9hMv0AAAAJ&hl=en
 ---
 
 ### About 

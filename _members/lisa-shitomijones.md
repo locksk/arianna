@@ -7,8 +7,8 @@ affiliation: Cardiff University
 links:
   email: Shitomi-JonesLM@cardiff.ac.uk
   orcid: 0009-0008-7433-0498
-  github: https://github.com/lms-j
-  linkedin: https://www.linkedin.com/in/lisa-shitomi-jones-061b97248/
+  github: lms-j
+  linkedin: lisa-shitomi-jones-061b97248
 
 ---
 

@@ -94,7 +94,7 @@ twitter:
   icon: fa-brands fa-twitter
   text: Twitter
   tooltip: Twitter
-  link: https://twitter.com/$VALUE
+  link: https://x.com/$VALUE
 
 bluesky:
   icon: fa-brands fa-bluesky

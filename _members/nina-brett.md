@@ -6,8 +6,7 @@ description: PhD Student at the Hodge Centre for Translational Neuroscience
 affiliation: Cardiff University
 links:
   email: BrettN@cardiff.ac.uk
-  github: https://github.com/jmkyang
-  linkedin: https://www.linkedin.com/in/nina-brett/
+  linkedin: nina-brett
 
 ---
 
