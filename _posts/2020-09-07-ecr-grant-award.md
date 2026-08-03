@@ -8,6 +8,7 @@ tags:
   - pmdd
   - genetics
   - research
+  - grants
 ---
 
 Dr Arianna Di Florio has been awarded €1.5 million in research funding for her project titled "Genetic Architecture of Sex Steroid-related Psychiatric Disorders (GASSP)".

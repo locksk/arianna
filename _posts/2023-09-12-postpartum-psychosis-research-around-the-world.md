@@ -10,7 +10,7 @@ tags:
 
 The team formed the International Postpartum Consortium to publish their first public involvement paper on the global understanding of postpartum psychosis.
 
-The Consortium, which spans six countries and four continents, ran discussion groups with people in India, Malawi and the UK to understand more about the characteristics of postpartum psychosis and the labels which are used to describe an episode in these three different cultural contexts. They talked to women with lived epxerience of postpartum psychosis, their families and healthcare professionals to find out what should be the priorites of research going forward.
+The Consortium, which spans six countries and four continents, ran discussion groups with people in India, Malawi and the UK to understand more about the characteristics of postpartum psychosis and the labels which are used to describe an episode in these three different cultural contexts. They talked to women with lived experience of postpartum psychosis, their families and healthcare professionals to find out what should be the priorities of research going forward.
 
 Read more at the [blog post on National Centre for Mental Health's website](https://www.cardiff.ac.uk/news/view/2753982-cardiff-university-joins-global-research-effort-to-learn-more-about-postpartum-pyschosis).
 

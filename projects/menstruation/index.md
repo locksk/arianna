@@ -4,7 +4,7 @@ title: Menstruation
 
 # Menstruation
 
-<center> We're working towards a better understanding of premenstrual dysphoric disorder (PMDD) to reduce stigma and improve treatment and diagnosis. </center>
+<center> We're working towards a better understanding of premenstrual dysphoric disorder (PMDD) and other menstruation related mental health experiences to reduce stigma and improve treatment and diagnosis. </center>
 
 {%
   include portrait.html
@@ -16,9 +16,9 @@ title: Menstruation
 {% include section.html %}
 
 ## Premenstrual Dysphoric Disorder
-Premenstrual Dysphoric Disorder (PMDD) is a mood disorder which is estimated to affect around 5.5% of people who experience periods. During the week before the onset of menstrual bleeding (aka. the luteal phase), people with PMDD experience severe mood symptoms that make daily activities difficult. These symptoms begin to improve within a few days after the onset of menstrual bleeding (the period).
+Premenstrual Dysphoric Disorder (PMDD) is a mood disorder estimated to affect around 5.5% of people who menstruate. In the week before menstrual bleeding begins (the luteal phase), people with PMDD experience severe mood symptoms that interfere with daily life. These symptoms typically begin to ease within a few days of the menstrual bleed (period) starting.
 
-The Diagnostic and Statistical Manual of Mental Disorders (DSM5) criteria for PMDD requires five of the main symptoms present for more than two menstrual cycles which severely affect social and daily functioning.
+To meet the Diagnostic and Statistical Manual of Mental Disorders (DSM5) criteria for PMDD, at least five of the core symptoms must be present across more than two menstrual cycles and must significantly impact social and daily functioning.
 
 These symptoms are:
 
@@ -28,24 +28,24 @@ These symptoms are:
 - lethargy, becoming easily fatigued, or a lack of energy
 - hypersomnia or insomnia
 
-PMDD is directly linked to the menstrual cycle – however, it is not a result of a hormone imbalance but is believed to be a severe negative reaction to the natural fluctuations of the hormones that occur in the cycle.
+PMDD is directly tied to the menstrual cycle, but it is not caused by a hormone imbalance. Instead, it is thought to reflect a severe sensitivity to the natural hormonal fluctuations that occur throughout the cycle.
 
-There are a variety of treatment options for PMDD, ranging from dietary/nutritional changes to medications to help stabilise mood. The effectiveness of these treatments can vary, and it is important to find the best methods or combination of methods that work for each person’s symptoms.
+Treatment options for PMDD vary widely, from dietary and nutritional changes to medications that help stabilise mood. What works can differ considerably from person to person, so finding the right approach — or combination of approaches — is an important part of managing the condition.
 
 <br>
 
 ## About the project
 As part of the Reproductive Mental Health Programme, we are running the project PreDDICT: Premenstrual Dysphoric Disorder - Indicators, Causes and Triggers.
 
-The project aims to improve understanding of how genetic and environmental factors can help to identify individuals at risk.
+This project aims to improve our understanding of how genetic and environmental factors may help identify individuals at risk of PMDD.
 
-Our overall long-term goal is to help improve the current approach to diagnosis, prevention, treatment and support for individuals experiencing PMDD. To do this we are also engaging with people with lived experience of the disorders to utilise their ideas and insights.
+Our long-term goal is to improve how PMDD is diagnosed, prevented, treated, and supported. To achieve this, we are working alongside people with lived experience of the condition, drawing on their insights and perspectives to shape the research.
 
-We will be recruiting participants who are currently or have previously experienced PMDD or severe PMS symptoms.
+We are recruiting participants who currently experience, or have previously experienced, PMDD or severe PMS symptoms.
 
-Participants will be asked to complete a 20 to 30-minute questionnaire which will ask questions about mental health, physical health, and their experience with PMDD. Later we will be re-contacting participants who are currently still experiencing symptoms and asking them to complete a mood monitoring diary for two consecutive months.
+Participants are asked to complete a questionnaire taking around 20 to 30 minutes, covering mental health, physical health, and personal experiences of PMDD. Those who are still experiencing symptoms may later be invited to complete a mood monitoring diary over two consecutive months.
 
-Some participants may also be re-contacted inviting them to provide a genetic sample in the form of a spit-kit via the post.
+Some participants may also be contacted separately and invited to provide a genetic sample by post, in the form of a saliva kit.
 
 <br>
 
