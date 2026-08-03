@@ -1,6 +1,7 @@
 ---
 title: Perimenopause linked with increased risk of bipolar and major depression
 author: Lisa Shitomi-Jones and Arianna Di Florio
+last_modified_at: ""
 tags:
   - research
   - bipolar disorder
