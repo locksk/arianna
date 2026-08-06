@@ -16,14 +16,21 @@ title: Childbirth
 {% include section.html %}
 
 ## Postpartum psychosis
-The period around childbirth can be incredibly challenging for new parents. It is also the time in a woman's life when the risk of mental illness is at its highest — which is why we believe it deserves focused research attention. The more we understand about the triggers for postpartum mental illness, the better placed we will be to identify and treat it more effectively.
+The period around childbirth can be incredibly challenging for new parents. It is also the time in a woman's life when the risk of mental illness is at its highest — which is why we believe it deserves focused research attention. The more we understand about the triggers for postpartum mental illness, the better placed we will be to identify and treat it more effectively. By focusing on this specific time period, we may also be able to learn more about severe mental illness at other time points as well.
 
-Postpartum psychosis is rare, affecting around 1 to 2 in every 1,000 births, yet it is among the most severe psychiatric conditions. It is not yet formally recognised in current diagnostic systems, and this lack of clarity around its classification has hampered early diagnosis, treatment, and research. Much of what we currently know is drawn from studies conducted in high-income, Western countries.
+Postpartum psychosis is considered to be rare, affecting around 1 to 2 in every 1,000 births, yet it is among the most severe psychiatric conditions. It is not yet formally recognised in current diagnostic systems, and this lack of clarity around its classification has hampered early diagnosis, treatment, and research. Much of what we currently know is drawn from studies conducted in high-income, Western countries.
 
 We are committed to addressing this through rigorous, internationally collaborative research, with the aim of improving standards of care for women and AFAB people. Our team has been working on postpartum psychosis for over 20 years, publishing in peer-reviewed journals — including the first genetic analyses of the condition — and partnering with collaborators worldwide to deepen our understanding.
 
 ## Our research 
 Our clinicians and researchers span Asia, Africa, the Americas, and Europe, and together we form the International Postpartum Psychosis Consortium. By working across borders and cultures, we hope to build a more complete picture of postpartum psychosis and ultimately raise the standard of diagnosis and care globally. Our findings are already contributing to the development of updated diagnostic criteria, though much work remains.
+
+{%
+  include figure.html
+  image="images/PP_GCRF_map.png"
+  caption="Members of the International Postpartum Psychosis Consortium"
+  width = "400px"
+%}
 
 We have carried out cross-cultural public involvement work to explore how postpartum psychosis presents across different countries and contexts. We have collaborated with people with lived experience to define key research priorities, developed a dedicated research assessment tool, and are actively pursuing genetic analyses of the condition.
 
