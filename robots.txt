@@ -1,1 +1,1 @@
-Sitemap: http://repromentalhealth.org/sitemap.xml
+Sitemap: https://repromentalhealth.org/sitemap.xml
