@@ -1,5 +1,206 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.07.17.26358311
+  title: Identifying and Characterising Common Genetic Differences in Schizophrenia
+    and Bipolar Disorder
+  authors:
+  - Isabella R. Willcocks
+  - Alex Richards
+  - Sophie E. Legge
+  - Peter Holmans
+  - Arianna Di Florio
+  - Alastair G. Cardno
+  - "Michael C. O\u2019Donovan"
+  - Michael J. Owen
+  - "Antonio F. Pardi\xF1as"
+  - James T. R. Walters
+  publisher: openRxiv
+  date: '2026-07-19'
+  link: https://doi.org/hcfdhc
+  orcid: 0000-0003-0338-2748
+  arianna-diflorio: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00737-023-01401-5
+  title: "A case\u2013control study of filicide/infanticide in 90 mothers"
+  authors:
+  - Alessandra Bramante
+  - Arianna Di Florio
+  publisher: Archives of Women's Mental Health
+  date: '2023-12-13'
+  link: https://doi.org/hcfdhd
+  orcid: 0000-0003-0338-2748
+  arianna-diflorio: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00737-024-01533-2
+  title: Associations between lifetime reproductive events among postmenopausal women
+    with bipolar disorder
+  authors:
+  - Katherine Gordon-Smith
+  - Amy Perry
+  - Arianna Di Florio
+  - Nicholas Craddock
+  - Ian Jones
+  - Lisa Jones
+  publisher: Archives of Women's Mental Health
+  date: '2024-11-14'
+  link: https://doi.org/hcfdhf
+  orcid: 0000-0003-0338-2748
+  arianna-diflorio: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/59333
+  title: 'Developing a Mood and Menstrual Tracking App for People With Premenstrual
+    Dysphoric Disorder: User-Centered Design Study'
+  authors:
+  - Chloe Apsey
+  - Arianna Di Florio
+  - Katarzyna Stawarz
+  publisher: JMIR Formative Research
+  date: '2024-12-24'
+  link: https://doi.org/hccd4n
+  orcid: 0000-0003-0338-2748
+  arianna-diflorio: true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s44220-024-00292-4
+  title: Exploration of first onsets of mania, schizophrenia spectrum disorders and
+    major depressive disorder in perimenopause
+  authors:
+  - Lisa M. Shitomi-Jones
+  - Clare Dolman
+  - Ian Jones
+  - George Kirov
+  - Valentina Escott-Price
+  - Sophie E. Legge
+  - Arianna Di Florio
+  publisher: Nature Mental Health
+  date: '2024-08-15'
+  link: https://doi.org/hccdv5
+  orcid: 0009-0008-7433-0498
+  arianna-diflorio: true
+  plugin: sources.py
+  file: sources.yaml
+  lisa-shitomijones: true
+- id: doi:10.2196/preprints.59333
+  title: 'Developing a Mood and Menstrual Tracking app for people with Premenstrual
+    Dysphoric Disorder: A User-Centered Design Study (Preprint)'
+  authors:
+  - Chloe Jean Apsey
+  - Arianna Di Florio
+  - Katarzyna Stawarz
+  publisher: JMIR Publications Inc.
+  date: '2024-04-09'
+  link: https://doi.org/hcfdhg
+  orcid: 0000-0003-0338-2748
+  arianna-diflorio: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S0033291721005377
+  title: 'The dynamic interplay between sleep and mood: an intensive longitudinal
+    study of individuals with bipolar disorder'
+  authors:
+  - K. J. S. Lewis
+  - K. Tilling
+  - K. Gordon-Smith
+  - K. E. A. Saunders
+  - A. Di Florio
+  - L. Jones
+  - I. Jones
+  - M. C. O'Donovan
+  - J. Heron
+  publisher: Psychological Medicine
+  date: '2022-01-25'
+  link: https://doi.org/hcfdhh
+  orcid: 0000-0003-0338-2748
+  arianna-diflorio: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/bdi.13204
+  title: "Mental health prior to and during the <scp>COVID</scp>\u201019 pandemic\
+    \ in individuals with bipolar disorder: Insights from prospective longitudinal\
+    \ data"
+  authors:
+  - Katie J. S. Lewis
+  - "Katherine Gordon\u2010Smith"
+  - Kate E. A. Saunders
+  - Clare Dolman
+  - Matthew South
+  - John Geddes
+  - Nick Craddock
+  - Arianna Di Florio
+  - Ian Jones
+  - Lisa Jones
+  publisher: Bipolar Disorders
+  date: '2022-03-28'
+  link: https://doi.org/hcfdhj
+  orcid: 0000-0003-0338-2748
+  arianna-diflorio: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biopsych.2021.03.009
+  title: Developmental Profile of Psychiatric Risk Associated With Voltage-Gated Cation
+    Channel Activity
+  authors:
+  - Nicholas E. Clifton
+  - Leonardo Collado-Torres
+  - Emily E. Burke
+  - "Antonio F. Pardi\xF1as"
+  - Janet C. Harwood
+  - Arianna Di Florio
+  - James T.R. Walters
+  - Michael J. Owen
+  - "Michael C. O\u2019Donovan"
+  - Daniel R. Weinberger
+  - Peter A. Holmans
+  - Andrew E. Jaffe
+  - Jeremy Hall
+  publisher: Biological Psychiatry
+  date: '2021-09-01'
+  link: https://doi.org/gsw9sf
+  orcid: 0000-0003-0338-2748
+  arianna-diflorio: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/bdi.12905
+  title: 'Patterns and clinical correlates of lifetime alcohol consumption in women
+    and men with bipolar disorder: Findings from the UK Bipolar Disorder Research
+    Network'
+  authors:
+  - "Katherine Gordon\u2010Smith"
+  - Katie J. S. Lewis
+  - "Fransico M. Vallejo Au\xF1\xF3n"
+  - Arianna Di Florio
+  - Amy Perry
+  - Nick Craddock
+  - Ian Jones
+  - Lisa Jones
+  publisher: Bipolar Disorders
+  date: '2020-04-13'
+  link: https://doi.org/hcfdhk
+  orcid: 0000-0003-0338-2748
+  arianna-diflorio: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/bdi.12778
+  title: Agitated depression in bipolar disorder
+  authors:
+  - Francesca Serra
+  - "Katherine Gordon\u2010Smith"
+  - Amy Perry
+  - Christine Fraser
+  - Arianna Di Florio
+  - Nick Craddock
+  - Ian Jones
+  - Lisa Jones
+  publisher: Bipolar Disorders
+  date: '2019-05-06'
+  link: https://doi.org/hcfdhm
+  orcid: 0000-0003-0338-2748
+  arianna-diflorio: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.jad.2025.120503
   title: 'Letter to the editor: Having two children might not be best for women''s
     mental health'
@@ -1482,24 +1683,6 @@
   jess-yang: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s44220-024-00292-4
-  title: Exploration of first onsets of mania, schizophrenia spectrum disorders and
-    major depressive disorder in perimenopause
-  authors:
-  - Lisa M. Shitomi-Jones
-  - Clare Dolman
-  - Ian Jones
-  - George Kirov
-  - Valentina Escott-Price
-  - Sophie E. Legge
-  - Arianna Di Florio
-  publisher: Nature Mental Health
-  date: '2024-08-15'
-  link: https://doi.org/hccdv5
-  orcid: 0009-0008-7433-0498
-  lisa-shitomijones: true
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/s2215-0366(23)00002-0
   title: 'Pharmacokinetics and pharmacogenomics of clozapine in an ancestrally diverse
     sample: a longitudinal analysis and genome-wide association study using UK clinical
@@ -1533,17 +1716,5 @@
   publisher: JAMA Psychiatry
   date: '2023-11-01'
   link: https://doi.org/hccd4m
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.2196/59333
-  title: 'Developing a Mood and Menstrual Tracking App for People With Premenstrual
-    Dysphoric Disorder: User-Centered Design Study'
-  authors:
-  - Chloe Apsey
-  - Arianna Di Florio
-  - Katarzyna Stawarz
-  publisher: JMIR Formative Research
-  date: '2024-12-24'
-  link: https://doi.org/hccd4n
   plugin: sources.py
   file: sources.yaml
