@@ -26,7 +26,8 @@ We believe in bringing together world-leading experts and individuals with lived
   width = "400px"
 %}
 
-Based in the Division of Psychological Medicine and Clinical Neuroscience (DPMCN) at Cardiff University, we closely collaborate with the [Centre for Neuropsychiatric Genetics and Genomics (CNGG)](https://cardiff.ac.uk/cngg), and the [National Centre for Mental Health (NCMH)](https://www.ncmh.info/).
+### The team
+Based in the Division of Psychological Medicine and Clinical Neuroscience (DPMCN) at Cardiff University, we closely collaborate with the [Centre for Neuropsychiatric Genetics and Genomics](https://cardiff.ac.uk/cngg), and the [National Centre for Mental Health (NCMH)](https://www.ncmh.info/).
 
 ### Funding
 Our research is made possible thanks to a [European Research Council](https://erc.europa.eu/) (ERC) grant from the Research and Innovation programme, Horizon 2020. Professor Arianna di Florio, our programme's lead researcher, was awarded €1.5m to conduct the first molecular genetic study of psychiatric sensitivity to sex hormone changes.
