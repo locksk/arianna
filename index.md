@@ -1,9 +1,7 @@
 ---
 ---
 
-# Investigating Reproductive Mental Health at Cardiff
-
-Based in the Division of Psychological Medicine and Clinical Neuroscience (DPMCN) at Cardiff University, we are a new research programme working with centres such as the Centre for Neuropsychiatric Genetics and Genomics, and the National Centre for Mental Health (NCMH).
+# The Reproductive Mental Health Clinical and Research Programme
 
 Our mission is to better understand how reproductive events such as pregnancy, the menstrual cycle and reproductive ageing impact mental health. In particular our research program is currently focusing on why some people develop severe mental illness in relation to reproductive events and some don’t.
 
@@ -28,13 +26,7 @@ We believe in bringing together world-leading experts and individuals with lived
   width = "400px"
 %}
 
-### Collaborators
-We collaborate with individual clinicians, academics and research groups in Cardiff and beyond.
-
-Our main collaborators within the University are:
-
-* [National Centre for Mental Health (NCMH)](https://www.ncmh.info/)
-* [Centre for Neuropsychiatric Genetics and Genomics (CNGG)](https://cardiff.ac.uk/cngg)
+Based in the Division of Psychological Medicine and Clinical Neuroscience (DPMCN) at Cardiff University, we closely collaborate with the [Centre for Neuropsychiatric Genetics and Genomics (CNGG)](https://cardiff.ac.uk/cngg), and the [National Centre for Mental Health (NCMH)](https://www.ncmh.info/).
 
 ### Funding
 Our research is made possible thanks to a [European Research Council](https://erc.europa.eu/) (ERC) grant from the Research and Innovation programme, Horizon 2020. Professor Arianna di Florio, our programme's lead researcher, was awarded €1.5m to conduct the first molecular genetic study of psychiatric sensitivity to sex hormone changes.
