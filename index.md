@@ -35,5 +35,5 @@ Our research is made possible thanks to a [European Research Council](https://er
 
 {%
   include figure.html
-  image="images/funding_footer.png"
+  image="images/footer_funding.png"
 %}
