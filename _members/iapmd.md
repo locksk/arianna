@@ -2,6 +2,7 @@
 name: International Association for Premenstrual Disorders
 image: images/iapmd_logo.jpg
 role: friend
+description: NULL
 links:
     home-page: https://www.iapmd.org/
 --- 
