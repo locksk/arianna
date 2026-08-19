@@ -8,7 +8,7 @@ title: Menstruation
 
 {%
   include portrait.html
-  lookup="ychloe-apsey"
+  lookup="xchloe-apsey"
   style="small"
 %}
 
