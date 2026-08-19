@@ -21,4 +21,15 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'developer' || role == 'mascot'" %}
 
+<br>
+<br>
 
+{% include section.html %}
+
+# Friends of the Group
+
+* BDRN
+* Nick Craddock
+* https://www.app-network.org 
+* https://www.iapmd.org 
+* https://www.bipolaruk.org 
