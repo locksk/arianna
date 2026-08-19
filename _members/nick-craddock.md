@@ -2,7 +2,6 @@
 name: Nick Craddock
 image: images/nick-craddock.jpg
 role: friend
-affiliation: Cardiff University
 links:
 
 ---
