@@ -2,7 +2,7 @@
 name: Bipolar UK
 image: images/bipolaruk.jpg
 role: friend
-description: NULL
+description: 
 links:
     home-page: https://www.bipolaruk.org/
 ---

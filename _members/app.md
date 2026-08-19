@@ -2,7 +2,7 @@
 name: Action on Postpartum Psychosis
 image: images/app.png
 role: friend
-description: NULL
+description: (APP)
 links:
     home-page: https://www.app-network.org/
 ---

@@ -28,4 +28,4 @@ nav:
 
 # Friends of the Group
 
-{% include list.html data="members" component="portrait" style = "small" filter="role == 'friend'" %}
+{% include list_v2.html data="members" component="portrait" style = "small" filter="role == 'friend'" %}
