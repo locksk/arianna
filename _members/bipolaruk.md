@@ -3,7 +3,6 @@ name: Bipolar UK
 image: images/bipolaruk.jpg
 role: friend
 description: 
-affiliation: Charity
 links:
     home-page: https://www.bipolaruk.org/
 ---
