@@ -1,10 +1,10 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 3
 ---
 
-# Research
+# Publications
 
 <center> We have contributed to over 100 publications in a number of peer-reviewed journals. </center> 
 
