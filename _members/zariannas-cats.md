@@ -1,6 +1,6 @@
 ---
 name: Daisy
-image: images/Daisy.pdf
+image: images/Daisy.jpg
 role: mascot
 affiliation: Cardiff University
 links:
