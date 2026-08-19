@@ -28,11 +28,21 @@ These symptoms are:
 - lethargy, becoming easily fatigued, or a lack of energy
 - hypersomnia or insomnia
 
-PMDD is directly tied to the menstrual cycle, but it is not caused by a hormone imbalance. Instead, it is thought to reflect a severe sensitivity to the natural hormonal fluctuations that occur throughout the cycle.
 
-Treatment options for PMDD vary widely, from dietary and nutritional changes to medications that help stabilise mood. What works can differ considerably from person to person, so finding the right approach — or combination of approaches — is an important part of managing the condition.
+![](https://www.youtube.com/watch?v=UvQaOo4LyTk)
 
 <br>
+
+PMDD is directly tied to the menstrual cycle, but it is not caused by a hormone imbalance. Instead, it is thought to reflect a severe sensitivity to the natural hormonal fluctuations that occur throughout the cycle.
+
+Treatment options for PMDD vary widely, from dietary and nutritional changes to medications that help stabilise mood. What works can differ considerably from person to person, so finding the right approach — or combination of approaches — is an important part of managing the condition. Find out more about Premenstrual Disorders [here]( https://www.iapmd.org).
+
+<br>
+
+![](https://www.youtube.com/watch?v=TH1CRt8HPSI)
+
+<br>
+
 
 ## About the project
 As part of the Reproductive Mental Health Programme, we are running the project PreDDICT: Premenstrual Dysphoric Disorder - Indicators, Causes and Triggers.
