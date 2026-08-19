@@ -26,6 +26,10 @@ mascot:
   icon: fa-solid fa-cat
   description: Mascot
 
+professional-services:
+  icon: fa-solid fa-paper-plane
+  description: Professional Services
+
 # general
 
 link:
