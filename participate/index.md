@@ -11,13 +11,13 @@ nav:
 {% include section.html %}
 
 #### PreDDICT
-[PreDDICT Study](https://www.ncmh.info/help-with-research/preddict/) - Investigating the genetic and environmental factors associated with Premenstrual Dysphoric Disorder (PMDD) and severe Premenstrual Syndrome (PMS)
+[PreDDICT Study](https://www.ncmh.info/help-with-research/preddict/) - This study aims to investigate the genetic and environmental factors associated with Premenstrual Dysphoric Disorder (PMDD) and severe Premenstrual Syndrome (PMS). 
 
 <br>
 <br>
 
 #### Mums and Mental Health 
-[Mums and Mental Health (MAM) Study](https://www.ncmh.info/help-with-research/mums-and-mental-health/) - Understanding severe mental illness during pregnancy and following childbirth to improve treatments and support
+[Mums and Mental Health (MAM) Study](https://www.ncmh.info/help-with-research/mums-and-mental-health/) - We are collecting information from anyone who has experienced pregnancy in order to learn more about severe mental illness during pregnancy and following childbirth. By collecting data from a diverse range of people, we hope to learn more about the causes and risk factors of severe mental illness and improve treatments and support.
 
 
 <br>
@@ -29,6 +29,10 @@ We are currently preparing a menopause questionnaire to capture people's experie
 <br>
 <br>
 
+{% include section.html %}
 
+# What does taking part look like?
+
+<center> Our studies are hosted online on the REDCap platform, and normally take between 20-30 minutes to complete. For the PreDDICT and MaM studies, we are also requesting for some people to complete a genetic sample through a spit kit which is sent directly to you. </center>
 
 

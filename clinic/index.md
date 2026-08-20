@@ -22,15 +22,9 @@ We can only accept referrals from mental health teams involved in the ongoing ca
 
 If you would like a second opinion from the CUPS, then you will need to discuss this with your clinical team.
 
-Please address referrals to one of our individual clinicians listed below.
+Please address referrals to Professor Arianna Di Florio, details below. Arianna is a Professor of Psychiatry and honorary consultant psychiatrist and offers second opinions on the risk, diagnosis, and management of severe psychiatric disorders linked to reproductive events, including those associated with the menstrual cycle, childbirth, and the transition to menopause, as well as gender-sensitive second opinions on the diagnosis and management of bipolar disorder in women.
 
-<br>
-
-## Our clinicians
-
-You can read more about our clinical academic staff and the areas where we offer a second opinion.
-
-{% include list.html data="members" component="portrait" filter="name == 'Arianna Di Florio' or name == 'Ian Jones'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Arianna Di Florio'" %}
 
 <br>
 
@@ -39,3 +33,5 @@ You can read more about our clinical academic staff and the areas where we offer
 Please send referrals to: 
 
 CUPS, Hadyn Ellis Building, Clinic Coordinator, Maindy Road, Cardiff, CF24 4HQ
+
+For more informaiton, please feel free to email us at psychmedCUPS@cardiff.ac.uk.
