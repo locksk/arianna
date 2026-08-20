@@ -1,6 +1,8 @@
 ---
 ---
 
+$wrap: 800px;
+
 .citation-container {
   container-type: inline-size;
 }
@@ -18,7 +20,7 @@
 .citation-text {
   position: relative;
   display: inline-flex;
-  flex-wrap: 800px;
+  flex-wrap: wrap;
   gap: 10px;
   max-width: 100%;
   height: min-content;
@@ -60,7 +62,7 @@
 
 .citation-buttons {
   display: flex;
-  flex-wrap: 800px;
+  flex-wrap: wrap;
   gap: 10px;
 }
 
@@ -74,7 +76,7 @@
   margin: 0;
 }
 
-@container (max-width: #{800px}) {
+@container (max-width: #{$wrap}) {
   .citation {
     flex-direction: column;
   }
