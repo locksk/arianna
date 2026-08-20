@@ -19,7 +19,11 @@ nav:
 
 <br>
 
-{% include list.html data="members" component="portrait" filter="role == 'developer' || role == 'mascot'" %}
+{% include list.html data="members" component="portrait" filter="role == 'professional-services'" %}
+
+<br>
+
+{% include list.html data="members" component="portrait" filter="role != 'friend' && role == 'developer' || role == 'mascot'" %}
 
 <br>
 <br>
@@ -28,8 +32,4 @@ nav:
 
 # Friends of the Group
 
-* BDRN
-* Nick Craddock
-* https://www.app-network.org 
-* https://www.iapmd.org 
-* https://www.bipolaruk.org 
+{% include list_v2.html data="members" component="portrait" style = "small" filter="role == 'friend'" %}

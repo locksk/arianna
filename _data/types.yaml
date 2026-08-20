@@ -30,6 +30,10 @@ professional-services:
   icon: fa-solid fa-paper-plane
   description: Professional Services
 
+friend:
+  icon: fa-regular fa-face-smile
+  description: Friend of the Group
+
 # general
 
 link:
