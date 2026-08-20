@@ -15,7 +15,11 @@ nav:
 <br>
 <br>
 
-{% include list.html data="members" component="portrait" filter="role != 'friend' && role == 'phd' || role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' || role == 'postdoc'" %}
+
+<br>
+
+{% include list.html data="members" component="portrait" filter="role == 'professional-services'" %}
 
 <br>
 
