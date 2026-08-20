@@ -29,26 +29,6 @@ We are currently preparing a menopause questionnaire to capture people's experie
 <br>
 <br>
 
-{% capture col1 %}
 
-{%
-  include figure.html
-  image="images/preddict.jpg"
-  caption="Investigating the genetic and environmental factors associated with Premenstrual Dysphoric Disorder (PMDD) and severe Premenstrual Syndrome (PMS)"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/research.png"
-  caption="Understanding severe mental illness during pregnancy and following childbirth to improve treatments and support"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
 
 

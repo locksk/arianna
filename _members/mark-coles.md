@@ -1,6 +1,6 @@
 ---
 name: Mark Coles
-image: 
+image: images/mark_coles.jpeg
 role: professional-services
 description: Administrative Officer at the DPMCN
 affiliation: Cardiff University

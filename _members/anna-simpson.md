@@ -1,6 +1,6 @@
 ---
 name: Anna Simpson
-image: 
+image: images/anna_simpson.jpeg
 role: professional-services
 description: Senior Psychology Assistant and Research Ethics Lead at the National Centre for Mental Health
 affiliation: Cardiff University
