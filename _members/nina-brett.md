@@ -10,5 +10,7 @@ links:
 
 ---
 
+### About 
+
 I am a PhD student at the Hodge Centre for Translational Neuroscience, where I focus on pathway-driven research into postpartum mood disorders. Specifically, I investigate CCN3, a protein involved in bone health, and its potential role in postpartum depression and psychosis. Using a multidisciplinary approach that combines animal behaviour, pharmacology, and human genetics, I aim to build a better understanding of how CCN3 may contribute to postpartum mental health.
 
