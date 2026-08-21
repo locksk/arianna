@@ -29,16 +29,11 @@ We are currently preparing a menopause questionnaire to capture people's experie
 <br>
 <br>
 
-![](https://www.youtube.com/watch?v=r34O8vFkqGk)
-
 {% include section.html %}
 
 # What does taking part look like?
 
 <center> Our studies are hosted online on the REDCap platform, and normally take between 20-30 minutes to complete. For the PreDDICT and MaM studies, we are also requesting for some people to complete a genetic sample through a spit kit which is sent directly to you. You can see exactly how this happens in this video: 
-
-
-
 </center>
-
+![](https://www.youtube.com/watch?v=r34O8vFkqGk)
 
