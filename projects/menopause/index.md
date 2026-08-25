@@ -46,5 +46,3 @@ We are also looking for volunteers to help us with a range of research projects.
 ## Publications
 
 {% include citation.html lookup="Exploration of first onsets of mania, schizophrenia spectrum disorders and major depressive disorder in perimenopause" style="rich" %}
-
-{% include section.html %}

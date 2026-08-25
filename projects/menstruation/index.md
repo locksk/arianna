@@ -73,4 +73,4 @@ We are looking for volunteers to help us with a range of research projects. Read
 
 {% include citation.html lookup="Developing a Mood and Menstrual Tracking App for People With Premenstrual Dysphoric Disorder: User-Centered Design Study" style="rich" %}
 
-{% include section.html %}
+
