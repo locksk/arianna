@@ -20,6 +20,8 @@ Perimenopause is the name given to the time surrounding a person’s last period
 
 While the transition to menopause is primarily viewed as a reproductive phenomenon, about 80% of women experience neuropsychiatric symptoms during the perimenopause. Emerging evidence suggests that this phase poses a heightened risk for the development or exacerbation of psychiatric disorders.
 
+![](https://www.youtube.com/watch?v=EflgNNDpqDA)
+
 While systematic evidence for severe mental illness is lacking, the charity Action on Postpartum Psychosis and case reports have observed severe psychiatric recurrences at the time of perimenopause in women with history of postpartum psychosis, followed in rare but tragic cases, by suicide.
 
 Despite the importance and increasing interest, little is known about the association between psychiatric disorders and perimenopause.
