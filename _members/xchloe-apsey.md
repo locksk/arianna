@@ -1,6 +1,6 @@
 ---
 name: Chloe Apsey
-image: images/chloe-apsey.png
+image: images/chloe_apsey_pref.jpeg
 role: phd
 description: PhD Student at the DPMCN
 affiliation: Cardiff University
