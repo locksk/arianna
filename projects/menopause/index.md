@@ -40,9 +40,9 @@ By investigating the relationship between hormonal changes and psychiatric disor
 The research we are conducting at the moment is using a secondary data set (UK Biobank) and we aren’t yet involved in any primary data collection.
 
 ## Take Part
-Members of our team are currently working with the [National Centre for Mental Health](https://www.ncmh.info/) to launch a menopause survey later in 2026. This survey will be open to anyone that has experienced periods and is over the age of 35. 
+Members of our team are currently working with the [National Centre for Mental Health](https://www.ncmh.info/) on a menopause survey, launching in late 2026. This survey is open to anyone that has experienced periods and is over the age of 35. More information can be found [here](https://www.ncmh.info/help-with-research/menopause-online-survey/). 
 
-We are also looking for volunteers to help us with a range of research projects. Read more about our [studies that are currently recruiting](https://locksk.github.io/arianna/projects/).
+We are also looking for volunteers to help us with a range of research projects. Read more about our [studies that are currently recruiting](https://locksk.github.io/arianna/participate/).
 
 
 ## Publications

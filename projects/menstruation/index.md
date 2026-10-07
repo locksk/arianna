@@ -63,7 +63,7 @@ Some participants may also be contacted separately and invited to provide a gene
 ## Take part
 By [taking part](https://www.ncmh.info/help-with-research/preddict/) in PMDD research, you can help us learn more about these life-changing conditions.
 
-We are looking for volunteers to help us with a range of research projects. Read more about our [studies that are currently recruiting](https://locksk.github.io/arianna/projects/).
+We are looking for volunteers to help us with a range of research projects. Read more about our [studies that are currently recruiting](https://locksk.github.io/arianna/participate/).
 
 <br>
 

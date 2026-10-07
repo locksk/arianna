@@ -57,7 +57,7 @@ If you choose to take part, we will ask you to share some information about your
 ## Take part
 If you have given birth, please consider [taking part]((https://www.ncmh.info/help-with-research/mums-and-mental-health/)).
 
-We are looking for volunteers to help us with a range of research projects. Read more about our [studies that are currently recruiting](https://locksk.github.io/arianna/projects/).
+We are looking for volunteers to help us with a range of research projects. Read more about our [studies that are currently recruiting](https://locksk.github.io/arianna/participate/).
 
 
 
